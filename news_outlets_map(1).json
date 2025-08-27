@@ -1,0 +1,957 @@
+{
+  "Germany": [
+    { "name": "spiegel.de" },
+    { "name": "sueddeutsche.de" },
+    { "name": "faz.net" }
+  ],
+  "France": [
+    { "name": "lemonde.fr" },
+    { "name": "lefigaro.fr" },
+    { "name": "france24.com" }
+  ],
+  "United Kingdom": [
+    { "name": "bbc.co.uk" },
+    { "name": "theguardian.com" },
+    { "name": "ft.com" }
+  ],
+  "United States": [
+    { "name": "nytimes.com" },
+    { "name": "reuters.com" },
+    { "name": "apnews.com" }
+  ],
+  "Italy": [
+    { "name": "repubblica.it" },
+    { "name": "corriere.it" },
+    { "name": "lastampa.it" }
+  ],
+  "Spain": [
+    { "name": "elpais.com" },
+    { "name": "elmundo.es" },
+    { "name": "lavanguardia.com" }
+  ],
+  "Brazil": [
+    { "name": "globo.com" },
+    { "name": "folha.uol.com.br" },
+    { "name": "estadao.com.br" }
+  ],
+  "India": [
+    { "name": "thehindu.com" },
+    { "name": "ndtv.com" },
+    { "name": "timesofindiaindiatimes.com" }
+  ],
+  "Netherlands": [
+    { "name": "nrc.nl" },
+    { "name": "volkskrant.nl" },
+    { "name": "ad.nl" }
+  ],
+  "Sweden": [
+    { "name": "dn.se" },
+    { "name": "svd.se" },
+    { "name": "svt.se" }
+  ],
+  "Poland": [
+    { "name": "gazeta.pl" },
+    { "name": "onet.pl" },
+    { "name": "tvn24.pl" }
+  ],
+  "Switzerland": [
+    { "name": "nzz.ch" },
+    { "name": "tagesanzeiger.ch" },
+    { "name": "blick.ch" }
+  ],
+  "Austria": [
+    { "name": "derstandard.at" },
+    { "name": "kurier.at" },
+    { "name": "orf.at" }
+  ],
+  "Canada": [
+    { "name": "cbc.ca" },
+    { "name": "theglobeandmail.com" },
+    { "name": "ctvnews.ca" }
+  ],
+  "Australia": [
+    { "name": "abc.net.au" },
+    { "name": "smh.com.au" },
+    { "name": "theaustralian.com.au" }
+  ],
+  "Japan": [
+    { "name": "nhk.or.jp" },
+    { "name": "japantimes.co.jp" },
+    { "name": "asahi.com" }
+  ],
+  "South Africa": [
+    { "name": "news24.com" },
+    { "name": "mailandguardian.co.za" },
+    { "name": "iol.co.za" }
+  ],
+  "Belgium": [
+    { "name": "vrt.be" },
+    { "name": "rtbf.be" },
+    { "name": "standaard.be" }
+  ],
+  "Norway": [
+    { "name": "nrk.no" },
+    { "name": "aftenposten.no" },
+    { "name": "vg.no" }
+  ],
+  "Finland": [
+    { "name": "yle.fi" },
+    { "name": "hs.fi" },
+    { "name": "iltalehti.fi" }
+  ],
+  "Denmark": [
+    { "name": "dr.dk" },
+    { "name": "politiken.dk" },
+    { "name": "jyllands-posten.dk" }
+  ],
+  "Ireland": [
+    { "name": "rte.ie" },
+    { "name": "irishtimes.com" },
+    { "name": "independent.ie" }
+  ],
+  "Portugal": [
+    { "name": "publico.pt" },
+    { "name": "jn.pt" },
+    { "name": "expresso.pt" }
+  ],
+  "New Zealand": [
+    { "name": "rnz.co.nz" },
+    { "name": "nzherald.co.nz" },
+    { "name": "stuff.co.nz" }
+  ],
+  "Singapore": [
+    { "name": "straitstimes.com" },
+    { "name": "channelnewsasia.com" },
+    { "name": "todayonline.com" }
+  ],
+  "Turkey": [
+    { "name": "hurriyet.com.tr" },
+    { "name": "milliyet.com.tr" },
+    { "name": "cnnturk.com" }
+  ],
+  "South Korea": [
+    { "name": "koreatimes.co.kr" },
+    { "name": "koreaherald.com" },
+    { "name": "yonhapnews.co.kr" }
+  ],
+  "Argentina": [
+    { "name": "lanacion.com.ar" },
+    { "name": "clarin.com" },
+    { "name": "pagina12.com.ar" }
+  ],
+  "Mexico": [
+    { "name": "eluniversal.com.mx" },
+    { "name": "milenio.com" },
+    { "name": "excelsior.com.mx" }
+  ],
+  "Chile": [
+    { "name": "emol.com" },
+    { "name": "latercera.com" },
+    { "name": "biobiochile.cl" }
+  ],
+  "Colombia": [
+    { "name": "elespectador.com" },
+    { "name": "eltiempo.com" },
+    { "name": "semana.com" }
+  ],
+  "Peru": [
+    { "name": "elcomercio.pe" },
+    { "name": "larepublica.pe" },
+    { "name": "rpp.pe" }
+  ],
+  "Venezuela": [
+    { "name": "elnacional.com" },
+    { "name": "runrun.es" },
+    { "name": "tal-cual.com" }
+  ],
+  "Ukraine": [
+    { "name": "pravda.com.ua" },
+    { "name": "unian.ua" },
+    { "name": "kyivpost.com" }
+  ],
+  "Czech Republic": [
+    { "name": "idnes.cz" },
+    { "name": "denikn.cz" },
+    { "name": "ct24.ceskatelevize.cz" }
+  ],
+  "Hungary": [
+    { "name": "index.hu" },
+    { "name": "hvg.hu" },
+    { "name": "444.hu" }
+  ],
+  "Slovakia": [
+    { "name": "dennikn.sk" },
+    { "name": "sme.sk" },
+    { "name": "pravda.sk" }
+  ],
+  "Romania": [
+    { "name": "adevarul.ro" },
+    { "name": "hotnews.ro" },
+    { "name": "digi24.ro" }
+  ],
+  "Greece": [
+    { "name": "kathimerini.gr" },
+    { "name": "ekathimerini.com" },
+    { "name": "in.gr" }
+  ],
+  "Bulgaria": [
+    { "name": "dnevnik.bg" },
+    { "name": "mediapool.bg" },
+    { "name": "bnt.bg" }
+  ],
+  "Croatia": [
+    { "name": "jutarnji.hr" },
+    { "name": "index.hr" },
+    { "name": "hrt.hr" }
+  ],
+  "Serbia": [
+    { "name": "b92.net" },
+    { "name": "blic.rs" },
+    { "name": "rts.rs" }
+  ],
+  "Slovenia": [
+    { "name": "delo.si" },
+    { "name": "rtvslo.si" },
+    { "name": "24ur.com" }
+  ],
+  "Estonia": [
+    { "name": "err.ee" },
+    { "name": "postimees.ee" },
+    { "name": "delfi.ee" }
+  ],
+  "Latvia": [
+    { "name": "lsm.lv" },
+    { "name": "delfi.lv" },
+    { "name": "tvnet.lv" }
+  ],
+  "Lithuania": [
+    { "name": "lrt.lt" },
+    { "name": "delfi.lt" },
+    { "name": "15min.lt" }
+  ],
+  "Israel": [
+    { "name": "haaretz.com" },
+    { "name": "timesofisrael.com" },
+    { "name": "jpost.com" }
+  ],
+  "Egypt": [
+    { "name": "almasryalyoum.com" },
+    { "name": "ahram.org.eg" },
+    { "name": "youm7.com" }
+  ],
+  "United Arab Emirates": [
+    { "name": "thenationalnews.com" },
+    { "name": "gulfnews.com" },
+    { "name": "khaleejtimes.com" }
+  ],
+  "Saudi Arabia": [
+    { "name": "arabnews.com" },
+    { "name": "spa.gov.sa" },
+    { "name": "okaz.com.sa" }
+  ],
+  "Morocco": [
+    { "name": "le360.ma" },
+    { "name": "hespress.com" },
+    { "name": "map.ma" }
+  ],
+  "Nigeria": [
+    { "name": "punchng.com" },
+    { "name": "vanguardngr.com" },
+    { "name": "channelstv.com" }
+  ],
+  "Kenya": [
+    { "name": "nation.africa" },
+    { "name": "standardmedia.co.ke" },
+    { "name": "citizentv.co.ke" }
+  ],
+  "Ghana": [
+    { "name": "graphic.com.gh" },
+    { "name": "ghanaweb.com" },
+    { "name": "joy995.com" }
+  ],
+  "China": [
+    { "name": "scmp.com" },
+    { "name": "chinadaily.com.cn" },
+    { "name": "xinhuanet.com" }
+  ],
+  "Hong Kong": [
+    { "name": "scmp.com" },
+    { "name": "hk01.com" },
+    { "name": "rthk.hk" }
+  ],
+  "Pakistan": [
+    { "name": "dawn.com" },
+    { "name": "thenews.com.pk" },
+    { "name": "tribune.com.pk" }
+  ],
+  "Bangladesh": [
+    { "name": "thedailystar.net" },
+    { "name": "bdnews24.com" },
+    { "name": "dhakatribune.com" }
+  ],
+  "Indonesia": [
+    { "name": "jakartapost.com" },
+    { "name": "kompas.com" },
+    { "name": "detik.com" }
+  ],
+  "Malaysia": [
+    { "name": "thestar.com.my" },
+    { "name": "nst.com.my" },
+    { "name": "malaymail.com" }
+  ],
+  "Thailand": [
+    { "name": "bangkokpost.com" },
+    { "name": "nationthailand.com" },
+    { "name": "thaipbs.or.th" }
+  ],
+  "Philippines": [
+    { "name": "inquirer.net" },
+    { "name": "philstar.com" },
+    { "name": "abs-cbn.com" }
+  ],
+  "Vietnam": [
+    { "name": "vnexpress.net" },
+    { "name": "tuoitrenews.vn" },
+    { "name": "vietnamnews.vn" }
+  ],
+  "Taiwan": [
+    { "name": "taipeitimes.com" },
+    { "name": "focustaiwan.tw" },
+    { "name": "cna.com.tw" }
+  ],
+  "Iceland": [
+    { "name": "mbl.is" },
+    { "name": "ruv.is" },
+    { "name": "visir.is" }
+  ],
+  "Luxembourg": [
+    { "name": "wort.lu" },
+    { "name": "rtl.lu" },
+    { "name": "lequotidien.lu" }
+  ],
+  "Kazakhstan": [
+    { "name": "tengrinews.kz" },
+    { "name": "informburo.kz" },
+    { "name": "zakon.kz" }
+  ],
+  "Georgia": [
+    { "name": "agenda.ge" },
+    { "name": "civil.ge" },
+    { "name": "1tv.ge" }
+  ],
+  "Uzbekistan": [
+    { "name": "gazeta.uz" },
+    { "name": "kun.uz" },
+    { "name": "daryo.uz" }
+  ],
+  "Armenia": [
+    { "name": "armenpress.am" },
+    { "name": "asbarez.com" },
+    { "name": "hetq.am" }
+  ],
+  "Azerbaijan": [
+    { "name": "azernews.az" },
+    { "name": "trend.az" },
+    { "name": "report.az" }
+  ],
+  "Lebanon": [
+    { "name": "dailystar.com.lb" },
+    { "name": "annahar.com" },
+    { "name": "lbcgroup.tv" }
+  ],
+  "Jordan": [
+    { "name": "jordantimes.com" },
+    { "name": "ammonnews.net" },
+    { "name": "petra.gov.jo" }
+  ],
+  "Qatar": [
+    { "name": "gulf-times.com" },
+    { "name": "thepeninsulaqatar.com" },
+    { "name": "qna.org.qa" }
+  ],
+  "Kuwait": [
+    { "name": "kuwaittimes.com" },
+    { "name": "arabtimesonline.com" },
+    { "name": "kuna.net.kw" }
+  ],
+  "Bahrain": [
+    { "name": "gdnonline.com" },
+    { "name": "newsofbahrain.com" },
+    { "name": "bna.bh" }
+  ],
+  "Oman": [
+    { "name": "timesofoman.com" },
+    { "name": "muscatdaily.com" },
+    { "name": "omanobserver.om" }
+  ],
+  "Algeria": [
+    { "name": "elwatan-dz.com" },
+    { "name": "aps.dz" },
+    { "name": "tsa-algerie.com" }
+  ],
+  "Tunisia": [
+    { "name": "lapresse.tn" },
+    { "name": "tap.info.tn" },
+    { "name": "kapitalis.com" }
+  ],
+  "Libya": [
+    { "name": "libya-al-mostakbal.org" },
+    { "name": "lana-news.ly" },
+    { "name": "218tv.net" }
+  ],
+  "Sudan": [
+    { "name": "sudantribune.com" },
+    { "name": "suna-sd.net" },
+    { "name": "altaghyeer.info" }
+  ],
+  "Ethiopia": [
+    { "name": "addisstandard.com" },
+    { "name": "ena.et" },
+    { "name": "fanabc.com" }
+  ],
+  "Somalia": [
+    { "name": "garowe-online.com" },
+    { "name": "hiiraan.com" },
+    { "name": "sonna.so" }
+  ],
+  "Senegal": [
+    { "name": "seneweb.com" },
+    { "name": "aps.sn" },
+    { "name": "lequotidien.sn" }
+  ],
+  "Ivory Coast": [
+    { "name": "abidjan.net" },
+    { "name": "aip.ci" },
+    { "name": "fratmat.info" }
+  ],
+  "Tanzania": [
+    { "name": "thecitizen.co.tz" },
+    { "name": "dailynews.co.tz" },
+    { "name": "ippmedia.com" }
+  ],
+  "Uganda": [
+    { "name": "monitor.co.ug" },
+    { "name": "newvision.co.ug" },
+    { "name": "parliament.go.ug" }
+  ],
+  "Zimbabwe": [
+    { "name": "herald.co.zw" },
+    { "name": "newsday.co.zw" },
+    { "name": "zimpapers.co.zw" }
+  ],
+  "Angola": [
+    { "name": "jornaldeangola.ao" },
+    { "name": "angop.ao" },
+    { "name": "portalangop.co.ao" }
+  ],
+  "Mozambique": [
+    { "name": "jornalnoticias.co.mz" },
+    { "name": "aim.org.mz" },
+    { "name": "canalmoz.co.mz" }
+  ],
+  "Zambia": [
+    { "name": "times.co.zm" },
+    { "name": "zanis.gov.zm" },
+    { "name": "lusakatimes.com" }
+  ],
+  "Botswana": [
+    { "name": "mmegi.bw" },
+    { "name": "gov.bw" },
+    { "name": "thepatriot.co.bw" }
+  ],
+  "Namibia": [
+    { "name": "namibian.com.na" },
+    { "name": "nampa.org" },
+    { "name": "newera.com.na" }
+  ],
+  "Malawi": [
+    { "name": "manaonline.gov.mw" },
+    { "name": "mbc.mw" },
+    { "name": "times.mw" }
+  ],
+  "Rwanda": [
+    { "name": "newtimes.co.rw" },
+    { "name": "rnanews.com" },
+    { "name": "gov.rw" }
+  ],
+  "Burundi": [
+    { "name": "iwacu-burundi.org" },
+    { "name": "rtnb.bi" },
+    { "name": "presidence.gov.bi" }
+  ],
+  "Madagascar": [
+    { "name": "madagascar-tribune.com" },
+    { "name": "anta.gov.mg" },
+    { "name": "rta.mg" }
+  ],
+  "Syria": [
+    { "name": "sana.sy" },
+    { "name": "syriahr.com" },
+    { "name": "damascuspost.com" }
+  ],
+  "Iraq": [
+    { "name": "rudaw.net" },
+    { "name": "iraqinews.com" },
+    { "name": "ina.iq" }
+  ],
+  "Afghanistan": [
+    { "name": "khaama.com" },
+    { "name": "tolonews.com" },
+    { "name": "arianatelevision.com" }
+  ],
+  "Iran": [
+    { "name": "presstv.ir" },
+    { "name": "tasnimnews.com" },
+    { "name": "mehrnews.com" }
+  ],
+  "Yemen": [
+    { "name": "sabanews.net" },
+    { "name": "adenalghad.net" },
+    { "name": "yementimes.com" }
+  ],
+  "Russia": [
+    { "name": "rt.com" },
+    { "name": "tass.ru" },
+    { "name": "ria.ru" }
+  ],
+  "Belarus": [
+    { "name": "belta.by" },
+    { "name": "sb.by" },
+    { "name": "tvr.by" }
+  ],
+  "Moldova": [
+    { "name": "moldpres.md" },
+    { "name": "publika.md" },
+    { "name": "trm.md" }
+  ],
+  "Bosnia and Herzegovina": [
+    { "name": "fena.ba" },
+    { "name": "klix.ba" },
+    { "name": "rtv.ba" }
+  ],
+  "Montenegro": [
+    { "name": "vijesti.me" },
+    { "name": "mina.news" },
+    { "name": "rtcg.me" }
+  ],
+  "North Macedonia": [
+    { "name": "mia.mk" },
+    { "name": "mkd.mk" },
+    { "name": "rtvm.gov.mk" }
+  ],
+  "Albania": [
+    { "name": "ata.gov.al" },
+    { "name": "top-channel.tv" },
+    { "name": "rtsh.al" }
+  ],
+  "Malta": [
+    { "name": "timesofmalta.com" },
+    { "name": "maltatoday.com.mt" },
+    { "name": "tvm.com.mt" }
+  ],
+  "Cyprus": [
+    { "name": "cyprus-mail.com" },
+    { "name": "pio.gov.cy" },
+    { "name": "cybc.com.cy" }
+  ],
+  "Sri Lanka": [
+    { "name": "dailynews.lk" },
+    { "name": "newsfirst.lk" },
+    { "name": "rupavahini.lk" }
+  ],
+  "Nepal": [
+    { "name": "kathmandupost.com" },
+    { "name": "rss.org.np" },
+    { "name": "onlinekhabar.com" }
+  ],
+  "Myanmar": [
+    { "name": "mmtimes.com" },
+    { "name": "gnlm.com.mm" },
+    { "name": "irrawaddy.com" }
+  ],
+  "Laos": [
+    { "name": "vientianetimes.org.la" },
+    { "name": "kpl.gov.la" },
+    { "name": "lnr.org.la" }
+  ],
+  "Cambodia": [
+    { "name": "khmertimeskh.com" },
+    { "name": "akp.gov.kh" },
+    { "name": "tvk.gov.kh" }
+  ],
+  "Mongolia": [
+    { "name": "news.mn" },
+    { "name": "montsame.mn" },
+    { "name": "mongolnews.mn" }
+  ],
+  "North Korea": [
+    { "name": "kcna.kp" },
+    { "name": "rodong.rep.kp" },
+    { "name": "vok.rep.kp" }
+  ],
+  "Bhutan": [
+    { "name": "kuenselonline.com" },
+    { "name": "bbs.bt" },
+    { "name": "thebhutanese.bt" }
+  ],
+  "Maldives": [
+    { "name": "sun.mv" },
+    { "name": "psmnews.mv" },
+    { "name": "vnews.mv" }
+  ],
+  "Brunei": [
+    { "name": "borneobulletin.com.bn" },
+    { "name": "rtb.gov.bn" },
+    { "name": "pelitabrunei.gov.bn" }
+  ],
+  "Timor-Leste": [
+    { "name": "tatoli.tl" },
+    { "name": "rtl.gov.tl" },
+    { "name": "thediliweekly.com" }
+  ],
+  "Fiji": [
+    { "name": "fijivillage.com" },
+    { "name": "fbc.com.fj" },
+    { "name": "fiji.gov.fj" }
+  ],
+  "Papua New Guinea": [
+    { "name": "postcourier.com.pg" },
+    { "name": "thenational.com.pg" },
+    { "name": "nbcpng.com.pg" }
+  ],
+  "Solomon Islands": [
+    { "name": "solomonstarnews.com" },
+    { "name": "sibconline.com.sb" },
+    { "name": "gov.sb" }
+  ],
+  "Vanuatu": [
+    { "name": "dailypost.vu" },
+    { "name": "vbtc.vu" },
+    { "name": "gov.vu" }
+  ],
+  "Samoa": [
+    { "name": "samoaobserver.ws" },
+    { "name": "2ap.ws" },
+    { "name": "gov.ws" }
+  ],
+  "Tonga": [
+    { "name": "matangitonga.to" },
+    { "name": "tbc.to" },
+    { "name": "gov.to" }
+  ],
+  "Micronesia": [
+    { "name": "kpress.info" },
+    { "name": "fsmgov.org" },
+    { "name": "kprfm.com" }
+  ],
+  "Palau": [
+    { "name": "islandtimes.org" },
+    { "name": "palaugov.pw" },
+    { "name": "t8aa.com" }
+  ],
+  "Marshall Islands": [
+    { "name": "marshallislandsjournal.com" },
+    { "name": "rmigovernment.org" },
+    { "name": "v7ab.com" }
+  ],
+  "Kiribati": [
+    { "name": "radiokiribati.net" },
+    { "name": "parliament.gov.ki" },
+    { "name": "president.gov.ki" }
+  ],
+  "Tuvalu": [
+    { "name": "tuvaluislands.com" },
+    { "name": "gov.tv" },
+    { "name": "tmbc.tv" }
+  ],
+  "Nauru": [
+    { "name": "naurugov.nr" },
+    { "name": "parliament.gov.nr" },
+    { "name": "radionauru.com.au" }
+  ],
+  "Cook Islands": [
+    { "name": "cookislands.news" },
+    { "name": "ck" },
+    { "name": "tcitv.co.ck" }
+  ],
+  "Ecuador": [
+    { "name": "elcomercio.com" },
+    { "name": "eluniverso.com" },
+    { "name": "andes.info.ec" }
+  ],
+  "Bolivia": [
+    { "name": "eldeber.com.bo" },
+    { "name": "abi.bo" },
+    { "name": "paginasiete.bo" }
+  ],
+  "Paraguay": [
+    { "name": "abc.com.py" },
+    { "name": "ip.gov.py" },
+    { "name": "ultimahora.com" }
+  ],
+  "Uruguay": [
+    { "name": "elpais.com.uy" },
+    { "name": "presidencia.gub.uy" },
+    { "name": "180.com.uy" }
+  ],
+  "Guyana": [
+    { "name": "stabroeknews.com" },
+    { "name": "gina.gov.gy" },
+    { "name": "ncnguyana.com" }
+  ],
+  "Suriname": [
+    { "name": "starnieuws.com" },
+    { "name": "gov.sr" },
+    { "name": "sitaleiefm.net" }
+  ],
+  "Guatemala": [
+    { "name": "prensalibre.com" },
+    { "name": "agn.gt" },
+    { "name": "soy502.com" }
+  ],
+  "Belize": [
+    { "name": "breakingbelizenews.com" },
+    { "name": "gov.bz" },
+    { "name": "channel5belize.com" }
+  ],
+  "El Salvador": [
+    { "name": "elsalvador.com" },
+    { "name": "presidencia.gob.sv" },
+    { "name": "laprensagrafica.com" }
+  ],
+  "Honduras": [
+    { "name": "laprensa.hn" },
+    { "name": "sic.gob.hn" },
+    { "name": "elheraldo.hn" }
+  ],
+  "Nicaragua": [
+    { "name": "el19digital.com" },
+    { "name": "presidencia.gob.ni" },
+    { "name": "laprensa.com.ni" }
+  ],
+  "Costa Rica": [
+    { "name": "nacion.com" },
+    { "name": "presidencia.go.cr" },
+    { "name": "teletica.com" }
+  ],
+  "Panama": [
+    { "name": "prensa.com" },
+    { "name": "presidencia.gob.pa" },
+    { "name": "tvn-2.com" }
+  ],
+  "Cuba": [
+    { "name": "granma.cu" },
+    { "name": "cubadebate.cu" },
+    { "name": "prensa-latina.cu" }
+  ],
+  "Haiti": [
+    { "name": "lenouvelliste.com" },
+    { "name": "anmh.gouv.ht" },
+    { "name": "radiotelevisioncaraibes.com" }
+  ],
+  "Dominican Republic": [
+    { "name": "listindiario.com" },
+    { "name": "presidencia.gob.do" },
+    { "name": "hoy.com.do" }
+  ],
+  "Jamaica": [
+    { "name": "jamaicaobserver.com" },
+    { "name": "jis.gov.jm" },
+    { "name": "rjrnewsonline.com" }
+  ],
+  "Trinidad and Tobago": [
+    { "name": "newsday.co.tt" },
+    { "name": "news.gov.tt" },
+    { "name": "guardian.co.tt" }
+  ],
+  "Barbados": [
+    { "name": "nationnews.com" },
+    { "name": "gisbarbados.gov.bb" },
+    { "name": "barbadostoday.bb" }
+  ],
+  "Bahamas": [
+    { "name": "tribune242.com" },
+    { "name": "bahamas.gov.bs" },
+    { "name": "guardian.bs" }
+  ],
+  "Saint Lucia": [
+    { "name": "stlucianewsonline.com" },
+    { "name": "govt.lc" },
+    { "name": "thevoiceslu.com" }
+  ],
+  "Saint Vincent and the Grenadines": [
+    { "name": "iwnsvg.com" },
+    { "name": "gov.vc" },
+    { "name": "searchlight.vc" }
+  ],
+  "Grenada": [
+    { "name": "nowgrenada.com" },
+    { "name": "gov.gd" },
+    { "name": "grenadiannews.com" }
+  ],
+  "Antigua and Barbuda": [
+    { "name": "antiguaobserver.com" },
+    { "name": "ab.gov.ag" },
+    { "name": "antiguanewsroom.com" }
+  ],
+  "Saint Kitts and Nevis": [
+    { "name": "thestkittsnevisobserver.com" },
+    { "name": "gov.kn" },
+    { "name": "winnfm.com" }
+  ],
+  "Dominica": [
+    { "name": "dominicavibes.dm" },
+    { "name": "gov.dm" },
+    { "name": "q95fm.com" }
+  ],
+  "Turkmenistan": [
+    { "name": "turkmenistan.gov.tm" },
+    { "name": "tdh.gov.tm" },
+    { "name": "orient.tm" }
+  ],
+  "Tajikistan": [
+    { "name": "khovar.tj" },
+    { "name": "president.tj" },
+    { "name": "avesta.tj" }
+  ],
+  "Kyrgyzstan": [
+    { "name": "kabar.kg" },
+    { "name": "president.kg" },
+    { "name": "24.kg" }
+  ],
+  "Chad": [
+    { "name": "alwihdainfo.com" },
+    { "name": "presidencetchad.org" },
+    { "name": "atchad.org" }
+  ],
+  "Central African Republic": [
+    { "name": "acap-cf.info" },
+    { "name": "presidence.cf" },
+    { "name": "centrafrique-presse.com" }
+  ],
+  "Democratic Republic of Congo": [
+    { "name": "radiookapi.net" },
+    { "name": "presidence.cd" },
+    { "name": "actualite.cd" }
+  ],
+  "Republic of Congo": [
+    { "name": "adiac-congo.com" },
+    { "name": "presidence.cg" },
+    { "name": "acpcongobrazzaville.com" }
+  ],
+  "Gabon": [
+    { "name": "agp.ga" },
+    { "name": "presidence.ga" },
+    { "name": "gabonreview.com" }
+  ],
+  "Equatorial Guinea": [
+    { "name": "guineaecuatorialpress.com" },
+    { "name": "presidencia.gq" },
+    { "name": "tvge-oficial.com" }
+  ],
+  "Cameroon": [
+    { "name": "cameroon-tribune.cm" },
+    { "name": "prc.cm" },
+    { "name": "crtv.cm" }
+  ],
+  "Niger": [
+    { "name": "anp.ne" },
+    { "name": "presidence.ne" },
+    { "name": "sahara-medias.net" }
+  ],
+  "Mali": [
+    { "name": "amap.ml" },
+    { "name": "koulouba.ml" },
+    { "name": "ortm.ml" }
+  ],
+  "Burkina Faso": [
+    { "name": "aib.bf" },
+    { "name": "presidence.gov.bf" },
+    { "name": "rtb.bf" }
+  ],
+  "Guinea": [
+    { "name": "agpguinee.com" },
+    { "name": "presidence.gov.gn" },
+    { "name": "rtg-guinee.org" }
+  ],
+  "Guinea-Bissau": [
+    { "name": "agp.gw" },
+    { "name": "gov.gw" },
+    { "name": "rtgb.gw" }
+  ],
+  "Sierra Leone": [
+    { "name": "slbc.sl" },
+    { "name": "statehouse.gov.sl" },
+    { "name": "sierraleonepost.com" }
+  ],
+  "Liberia": [
+    { "name": "liberianobserver.com" },
+    { "name": "emansion.gov.lr" },
+    { "name": "frontpageafricaonline.com" }
+  ],
+  "Gambia": [
+    { "name": "statehouse.gm" },
+    { "name": "grts.gm" },
+    { "name": "foroyaa.gm" }
+  ],
+  "Cape Verde": [
+    { "name": "inforpress.cv" },
+    { "name": "governo.cv" },
+    { "name": "rtc.cv" }
+  ],
+  "Togo": [
+    { "name": "republicoftogo.com" },
+    { "name": "presidence.gouv.tg" },
+    { "name": "atop.tg" }
+  ],
+  "Benin": [
+    { "name": "presidence.bj" },
+    { "name": "ortb.bj" },
+    { "name": "fratmat.bj" }
+  ],
+  "Mauritania": [
+    { "name": "ami.mr" },
+    { "name": "presidence.mr" },
+    { "name": "elmourakib.mr" }
+  ],
+  "Djibouti": [
+    { "name": "presidence.dj" },
+    { "name": "rtd.dj" },
+    { "name": "lanation.dj" }
+  ],
+  "Eritrea": [
+    { "name": "shabait.com" },
+    { "name": "president-office.gov.er" },
+    { "name": "eri-tv.com" }
+  ],
+  "South Sudan": [
+    { "name": "paanluelwel.com" },
+    { "name": "goss.org" },
+    { "name": "eyeradio.org" }
+  ],
+  "Comoros": [
+    { "name": "beit-salam.km" },
+    { "name": "comores-actualites.com" },
+    { "name": "ortc.km" }
+  ],
+  "Mauritius": [
+    { "name": "defimedia.info" },
+    { "name": "govmu.org" },
+    { "name": "mbcradio.tv" }
+  ],
+  "Seychelles": [
+    { "name": "seychellesnewsagency.com" },
+    { "name": "statehouse.gov.sc" },
+    { "name": "sbc.sc" }
+  ],
+  "Lesotho": [
+    { "name": "lena.gov.ls" },
+    { "name": "gov.ls" },
+    { "name": "ltv.co.ls" }
+  ],
+  "Eswatini": [
+    { "name": "gov.sz" },
+    { "name": "times.co.sz" },
+    { "name": "swazimedia.co.sz" }
+  ]
+}
