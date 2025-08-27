@@ -1,0 +1,1721 @@
+[
+  {
+    "country": "Afghanistan",
+    "category": "general",
+    "sources": [
+      "khaama.com",
+      "tolonews.com",
+      "arianatelevision.com"
+    ]
+  },
+  {
+    "country": "Albania",
+    "category": "general",
+    "sources": [
+      "ata.gov.al",
+      "top-channel.tv",
+      "rtsh.al"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "category": "general",
+    "sources": [
+      "elwatan-dz.com",
+      "aps.dz",
+      "tsa-algerie.com"
+    ]
+  },
+  {
+    "country": "Angola",
+    "category": "general",
+    "sources": [
+      "jornaldeangola.ao",
+      "angop.ao",
+      "portalangop.co.ao"
+    ]
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "category": "general",
+    "sources": [
+      "antiguaobserver.com",
+      "ab.gov.ag",
+      "antiguanewsroom.com"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "category": "general",
+    "sources": [
+      "lanacion.com.ar",
+      "clarin.com",
+      "pagina12.com.ar"
+    ]
+  },
+  {
+    "country": "Armenia",
+    "category": "general",
+    "sources": [
+      "armenpress.am",
+      "asbarez.com",
+      "hetq.am"
+    ]
+  },
+  {
+    "country": "Australia",
+    "category": "general",
+    "sources": [
+      "abc.net.au",
+      "smh.com.au",
+      "theaustralian.com.au"
+    ]
+  },
+  {
+    "country": "Austria",
+    "category": "general",
+    "sources": [
+      "derstandard.at",
+      "kurier.at",
+      "orf.at"
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "category": "general",
+    "sources": [
+      "azernews.az",
+      "trend.az",
+      "report.az"
+    ]
+  },
+  {
+    "country": "Bahamas",
+    "category": "general",
+    "sources": [
+      "tribune242.com",
+      "bahamas.gov.bs",
+      "guardian.bs"
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "category": "general",
+    "sources": [
+      "gdnonline.com",
+      "newsofbahrain.com",
+      "bna.bh"
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "category": "general",
+    "sources": [
+      "thedailystar.net",
+      "bdnews24.com",
+      "dhakatribune.com"
+    ]
+  },
+  {
+    "country": "Barbados",
+    "category": "general",
+    "sources": [
+      "nationnews.com",
+      "gisbarbados.gov.bb",
+      "barbadostoday.bb"
+    ]
+  },
+  {
+    "country": "Belarus",
+    "category": "general",
+    "sources": [
+      "belta.by",
+      "sb.by",
+      "tvr.by"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "category": "general",
+    "sources": [
+      "vrt.be",
+      "rtbf.be",
+      "standaard.be"
+    ]
+  },
+  {
+    "country": "Belize",
+    "category": "general",
+    "sources": [
+      "breakingbelizenews.com",
+      "gov.bz",
+      "channel5belize.com"
+    ]
+  },
+  {
+    "country": "Benin",
+    "category": "general",
+    "sources": [
+      "presidence.bj",
+      "ortb.bj",
+      "fratmat.bj"
+    ]
+  },
+  {
+    "country": "Bhutan",
+    "category": "general",
+    "sources": [
+      "kuenselonline.com",
+      "bbs.bt",
+      "thebhutanese.bt"
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "category": "general",
+    "sources": [
+      "eldeber.com.bo",
+      "abi.bo",
+      "paginasiete.bo"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "category": "general",
+    "sources": [
+      "fena.ba",
+      "klix.ba",
+      "rtv.ba"
+    ]
+  },
+  {
+    "country": "Botswana",
+    "category": "general",
+    "sources": [
+      "mmegi.bw",
+      "gov.bw",
+      "thepatriot.co.bw"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "category": "general",
+    "sources": [
+      "globo.com",
+      "folha.uol.com.br",
+      "estadao.com.br"
+    ]
+  },
+  {
+    "country": "Brunei",
+    "category": "general",
+    "sources": [
+      "borneobulletin.com.bn",
+      "rtb.gov.bn",
+      "pelitabrunei.gov.bn"
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "category": "general",
+    "sources": [
+      "dnevnik.bg",
+      "mediapool.bg",
+      "bnt.bg"
+    ]
+  },
+  {
+    "country": "Burkina Faso",
+    "category": "general",
+    "sources": [
+      "aib.bf",
+      "presidence.gov.bf",
+      "rtb.bf"
+    ]
+  },
+  {
+    "country": "Burundi",
+    "category": "general",
+    "sources": [
+      "iwacu-burundi.org",
+      "rtnb.bi",
+      "presidence.gov.bi"
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "category": "general",
+    "sources": [
+      "khmertimeskh.com",
+      "akp.gov.kh",
+      "tvk.gov.kh"
+    ]
+  },
+  {
+    "country": "Cameroon",
+    "category": "general",
+    "sources": [
+      "cameroon-tribune.cm",
+      "prc.cm",
+      "crtv.cm"
+    ]
+  },
+  {
+    "country": "Canada",
+    "category": "general",
+    "sources": [
+      "cbc.ca",
+      "theglobeandmail.com",
+      "ctvnews.ca"
+    ]
+  },
+  {
+    "country": "Cape Verde",
+    "category": "general",
+    "sources": [
+      "inforpress.cv",
+      "governo.cv",
+      "rtc.cv"
+    ]
+  },
+  {
+    "country": "Central African Republic",
+    "category": "general",
+    "sources": [
+      "acap-cf.info",
+      "presidence.cf",
+      "centrafrique-presse.com"
+    ]
+  },
+  {
+    "country": "Chad",
+    "category": "general",
+    "sources": [
+      "alwihdainfo.com",
+      "presidencetchad.org",
+      "atchad.org"
+    ]
+  },
+  {
+    "country": "Chile",
+    "category": "general",
+    "sources": [
+      "emol.com",
+      "latercera.com",
+      "biobiochile.cl"
+    ]
+  },
+  {
+    "country": "China",
+    "category": "general",
+    "sources": [
+      "scmp.com",
+      "chinadaily.com.cn",
+      "xinhuanet.com"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "category": "general",
+    "sources": [
+      "elespectador.com",
+      "eltiempo.com",
+      "semana.com"
+    ]
+  },
+  {
+    "country": "Comoros",
+    "category": "general",
+    "sources": [
+      "beit-salam.km",
+      "comores-actualites.com",
+      "ortc.km"
+    ]
+  },
+  {
+    "country": "Cook Islands",
+    "category": "general",
+    "sources": [
+      "cookislands.news",
+      "ck",
+      "tcitv.co.ck"
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "category": "general",
+    "sources": [
+      "nacion.com",
+      "presidencia.go.cr",
+      "teletica.com"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "category": "general",
+    "sources": [
+      "jutarnji.hr",
+      "index.hr",
+      "hrt.hr"
+    ]
+  },
+  {
+    "country": "Cuba",
+    "category": "general",
+    "sources": [
+      "granma.cu",
+      "cubadebate.cu",
+      "prensa-latina.cu"
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "category": "general",
+    "sources": [
+      "cyprus-mail.com",
+      "pio.gov.cy",
+      "cybc.com.cy"
+    ]
+  },
+  {
+    "country": "Czech Republic",
+    "category": "general",
+    "sources": [
+      "idnes.cz",
+      "denikn.cz",
+      "ct24.ceskatelevize.cz"
+    ]
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "category": "general",
+    "sources": [
+      "radiookapi.net",
+      "presidence.cd",
+      "actualite.cd"
+    ]
+  },
+  {
+    "country": "Denmark",
+    "category": "general",
+    "sources": [
+      "dr.dk",
+      "politiken.dk",
+      "jyllands-posten.dk"
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "category": "general",
+    "sources": [
+      "presidence.dj",
+      "rtd.dj",
+      "lanation.dj"
+    ]
+  },
+  {
+    "country": "Dominica",
+    "category": "general",
+    "sources": [
+      "dominicavibes.dm",
+      "gov.dm",
+      "q95fm.com"
+    ]
+  },
+  {
+    "country": "Dominican Republic",
+    "category": "general",
+    "sources": [
+      "listindiario.com",
+      "presidencia.gob.do",
+      "hoy.com.do"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "category": "general",
+    "sources": [
+      "elcomercio.com",
+      "eluniverso.com",
+      "andes.info.ec"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "category": "general",
+    "sources": [
+      "almasryalyoum.com",
+      "ahram.org.eg",
+      "youm7.com"
+    ]
+  },
+  {
+    "country": "El Salvador",
+    "category": "general",
+    "sources": [
+      "elsalvador.com",
+      "presidencia.gob.sv",
+      "laprensagrafica.com"
+    ]
+  },
+  {
+    "country": "Equatorial Guinea",
+    "category": "general",
+    "sources": [
+      "guineaecuatorialpress.com",
+      "presidencia.gq",
+      "tvge-oficial.com"
+    ]
+  },
+  {
+    "country": "Eritrea",
+    "category": "general",
+    "sources": [
+      "shabait.com",
+      "president-office.gov.er",
+      "eri-tv.com"
+    ]
+  },
+  {
+    "country": "Estonia",
+    "category": "general",
+    "sources": [
+      "err.ee",
+      "postimees.ee",
+      "delfi.ee"
+    ]
+  },
+  {
+    "country": "Eswatini",
+    "category": "general",
+    "sources": [
+      "gov.sz",
+      "times.co.sz",
+      "swazimedia.co.sz"
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "category": "general",
+    "sources": [
+      "addisstandard.com",
+      "ena.et",
+      "fanabc.com"
+    ]
+  },
+  {
+    "country": "Fiji",
+    "category": "general",
+    "sources": [
+      "fijivillage.com",
+      "fbc.com.fj",
+      "fiji.gov.fj"
+    ]
+  },
+  {
+    "country": "Finland",
+    "category": "general",
+    "sources": [
+      "yle.fi",
+      "hs.fi",
+      "iltalehti.fi"
+    ]
+  },
+  {
+    "country": "France",
+    "category": "general",
+    "sources": [
+      "lemonde.fr",
+      "lefigaro.fr",
+      "france24.com"
+    ]
+  },
+  {
+    "country": "Gabon",
+    "category": "general",
+    "sources": [
+      "agp.ga",
+      "presidence.ga",
+      "gabonreview.com"
+    ]
+  },
+  {
+    "country": "Gambia",
+    "category": "general",
+    "sources": [
+      "statehouse.gm",
+      "grts.gm",
+      "foroyaa.gm"
+    ]
+  },
+  {
+    "country": "Georgia",
+    "category": "general",
+    "sources": [
+      "agenda.ge",
+      "civil.ge",
+      "1tv.ge"
+    ]
+  },
+  {
+    "country": "Germany",
+    "category": "general",
+    "sources": [
+      "spiegel.de",
+      "sueddeutsche.de",
+      "faz.net"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "category": "general",
+    "sources": [
+      "graphic.com.gh",
+      "ghanaweb.com",
+      "joy995.com"
+    ]
+  },
+  {
+    "country": "Greece",
+    "category": "general",
+    "sources": [
+      "kathimerini.gr",
+      "ekathimerini.com",
+      "in.gr"
+    ]
+  },
+  {
+    "country": "Grenada",
+    "category": "general",
+    "sources": [
+      "nowgrenada.com",
+      "gov.gd",
+      "grenadiannews.com"
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "category": "general",
+    "sources": [
+      "prensalibre.com",
+      "agn.gt",
+      "soy502.com"
+    ]
+  },
+  {
+    "country": "Guinea",
+    "category": "general",
+    "sources": [
+      "agpguinee.com",
+      "presidence.gov.gn",
+      "rtg-guinee.org"
+    ]
+  },
+  {
+    "country": "Guinea-Bissau",
+    "category": "general",
+    "sources": [
+      "agp.gw",
+      "gov.gw",
+      "rtgb.gw"
+    ]
+  },
+  {
+    "country": "Guyana",
+    "category": "general",
+    "sources": [
+      "stabroeknews.com",
+      "gina.gov.gy",
+      "ncnguyana.com"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "category": "general",
+    "sources": [
+      "lenouvelliste.com",
+      "anmh.gouv.ht",
+      "radiotelevisioncaraibes.com"
+    ]
+  },
+  {
+    "country": "Honduras",
+    "category": "general",
+    "sources": [
+      "laprensa.hn",
+      "sic.gob.hn",
+      "elheraldo.hn"
+    ]
+  },
+  {
+    "country": "Hong Kong",
+    "category": "general",
+    "sources": [
+      "scmp.com",
+      "hk01.com",
+      "rthk.hk"
+    ]
+  },
+  {
+    "country": "Hungary",
+    "category": "general",
+    "sources": [
+      "index.hu",
+      "hvg.hu",
+      "444.hu"
+    ]
+  },
+  {
+    "country": "Iceland",
+    "category": "general",
+    "sources": [
+      "mbl.is",
+      "ruv.is",
+      "visir.is"
+    ]
+  },
+  {
+    "country": "India",
+    "category": "general",
+    "sources": [
+      "thehindu.com",
+      "ndtv.com",
+      "timesofindiaindiatimes.com"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "category": "general",
+    "sources": [
+      "jakartapost.com",
+      "kompas.com",
+      "detik.com"
+    ]
+  },
+  {
+    "country": "Iran",
+    "category": "general",
+    "sources": [
+      "presstv.ir",
+      "tasnimnews.com",
+      "mehrnews.com"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "category": "general",
+    "sources": [
+      "rudaw.net",
+      "iraqinews.com",
+      "ina.iq"
+    ]
+  },
+  {
+    "country": "Ireland",
+    "category": "general",
+    "sources": [
+      "rte.ie",
+      "irishtimes.com",
+      "independent.ie"
+    ]
+  },
+  {
+    "country": "Israel",
+    "category": "general",
+    "sources": [
+      "haaretz.com",
+      "timesofisrael.com",
+      "jpost.com"
+    ]
+  },
+  {
+    "country": "Italy",
+    "category": "general",
+    "sources": [
+      "repubblica.it",
+      "corriere.it",
+      "lastampa.it"
+    ]
+  },
+  {
+    "country": "Ivory Coast",
+    "category": "general",
+    "sources": [
+      "abidjan.net",
+      "aip.ci",
+      "fratmat.info"
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "category": "general",
+    "sources": [
+      "jamaicaobserver.com",
+      "jis.gov.jm",
+      "rjrnewsonline.com"
+    ]
+  },
+  {
+    "country": "Japan",
+    "category": "general",
+    "sources": [
+      "nhk.or.jp",
+      "japantimes.co.jp",
+      "asahi.com"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "category": "general",
+    "sources": [
+      "jordantimes.com",
+      "ammonnews.net",
+      "petra.gov.jo"
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "category": "general",
+    "sources": [
+      "tengrinews.kz",
+      "informburo.kz",
+      "zakon.kz"
+    ]
+  },
+  {
+    "country": "Kenya",
+    "category": "general",
+    "sources": [
+      "nation.africa",
+      "standardmedia.co.ke",
+      "citizentv.co.ke"
+    ]
+  },
+  {
+    "country": "Kiribati",
+    "category": "general",
+    "sources": [
+      "radiokiribati.net",
+      "parliament.gov.ki",
+      "president.gov.ki"
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "category": "general",
+    "sources": [
+      "kuwaittimes.com",
+      "arabtimesonline.com",
+      "kuna.net.kw"
+    ]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "category": "general",
+    "sources": [
+      "kabar.kg",
+      "president.kg",
+      "24.kg"
+    ]
+  },
+  {
+    "country": "Laos",
+    "category": "general",
+    "sources": [
+      "vientianetimes.org.la",
+      "kpl.gov.la",
+      "lnr.org.la"
+    ]
+  },
+  {
+    "country": "Latvia",
+    "category": "general",
+    "sources": [
+      "lsm.lv",
+      "delfi.lv",
+      "tvnet.lv"
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "category": "general",
+    "sources": [
+      "dailystar.com.lb",
+      "annahar.com",
+      "lbcgroup.tv"
+    ]
+  },
+  {
+    "country": "Lesotho",
+    "category": "general",
+    "sources": [
+      "lena.gov.ls",
+      "gov.ls",
+      "ltv.co.ls"
+    ]
+  },
+  {
+    "country": "Liberia",
+    "category": "general",
+    "sources": [
+      "liberianobserver.com",
+      "emansion.gov.lr",
+      "frontpageafricaonline.com"
+    ]
+  },
+  {
+    "country": "Libya",
+    "category": "general",
+    "sources": [
+      "libya-al-mostakbal.org",
+      "lana-news.ly",
+      "218tv.net"
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "category": "general",
+    "sources": [
+      "lrt.lt",
+      "delfi.lt",
+      "15min.lt"
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "category": "general",
+    "sources": [
+      "wort.lu",
+      "rtl.lu",
+      "lequotidien.lu"
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "category": "general",
+    "sources": [
+      "madagascar-tribune.com",
+      "anta.gov.mg",
+      "rta.mg"
+    ]
+  },
+  {
+    "country": "Malawi",
+    "category": "general",
+    "sources": [
+      "manaonline.gov.mw",
+      "mbc.mw",
+      "times.mw"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "category": "general",
+    "sources": [
+      "thestar.com.my",
+      "nst.com.my",
+      "malaymail.com"
+    ]
+  },
+  {
+    "country": "Maldives",
+    "category": "general",
+    "sources": [
+      "sun.mv",
+      "psmnews.mv",
+      "vnews.mv"
+    ]
+  },
+  {
+    "country": "Mali",
+    "category": "general",
+    "sources": [
+      "amap.ml",
+      "koulouba.ml",
+      "ortm.ml"
+    ]
+  },
+  {
+    "country": "Malta",
+    "category": "general",
+    "sources": [
+      "timesofmalta.com",
+      "maltatoday.com.mt",
+      "tvm.com.mt"
+    ]
+  },
+  {
+    "country": "Marshall Islands",
+    "category": "general",
+    "sources": [
+      "marshallislandsjournal.com",
+      "rmigovernment.org",
+      "v7ab.com"
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "category": "general",
+    "sources": [
+      "ami.mr",
+      "presidence.mr",
+      "elmourakib.mr"
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "category": "general",
+    "sources": [
+      "defimedia.info",
+      "govmu.org",
+      "mbcradio.tv"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "category": "general",
+    "sources": [
+      "eluniversal.com.mx",
+      "milenio.com",
+      "excelsior.com.mx"
+    ]
+  },
+  {
+    "country": "Micronesia",
+    "category": "general",
+    "sources": [
+      "kpress.info",
+      "fsmgov.org",
+      "kprfm.com"
+    ]
+  },
+  {
+    "country": "Moldova",
+    "category": "general",
+    "sources": [
+      "moldpres.md",
+      "publika.md",
+      "trm.md"
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "category": "general",
+    "sources": [
+      "news.mn",
+      "montsame.mn",
+      "mongolnews.mn"
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "category": "general",
+    "sources": [
+      "vijesti.me",
+      "mina.news",
+      "rtcg.me"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "category": "general",
+    "sources": [
+      "le360.ma",
+      "hespress.com",
+      "map.ma"
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "category": "general",
+    "sources": [
+      "jornalnoticias.co.mz",
+      "aim.org.mz",
+      "canalmoz.co.mz"
+    ]
+  },
+  {
+    "country": "Myanmar",
+    "category": "general",
+    "sources": [
+      "mmtimes.com",
+      "gnlm.com.mm",
+      "irrawaddy.com"
+    ]
+  },
+  {
+    "country": "Namibia",
+    "category": "general",
+    "sources": [
+      "namibian.com.na",
+      "nampa.org",
+      "newera.com.na"
+    ]
+  },
+  {
+    "country": "Nauru",
+    "category": "general",
+    "sources": [
+      "naurugov.nr",
+      "parliament.gov.nr",
+      "radionauru.com.au"
+    ]
+  },
+  {
+    "country": "Nepal",
+    "category": "general",
+    "sources": [
+      "kathmandupost.com",
+      "rss.org.np",
+      "onlinekhabar.com"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "category": "general",
+    "sources": [
+      "nrc.nl",
+      "volkskrant.nl",
+      "ad.nl"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "category": "general",
+    "sources": [
+      "rnz.co.nz",
+      "nzherald.co.nz",
+      "stuff.co.nz"
+    ]
+  },
+  {
+    "country": "Nicaragua",
+    "category": "general",
+    "sources": [
+      "el19digital.com",
+      "presidencia.gob.ni",
+      "laprensa.com.ni"
+    ]
+  },
+  {
+    "country": "Niger",
+    "category": "general",
+    "sources": [
+      "anp.ne",
+      "presidence.ne",
+      "sahara-medias.net"
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "category": "general",
+    "sources": [
+      "punchng.com",
+      "vanguardngr.com",
+      "channelstv.com"
+    ]
+  },
+  {
+    "country": "North Korea",
+    "category": "general",
+    "sources": [
+      "kcna.kp",
+      "rodong.rep.kp",
+      "vok.rep.kp"
+    ]
+  },
+  {
+    "country": "North Macedonia",
+    "category": "general",
+    "sources": [
+      "mia.mk",
+      "mkd.mk",
+      "rtvm.gov.mk"
+    ]
+  },
+  {
+    "country": "Norway",
+    "category": "general",
+    "sources": [
+      "nrk.no",
+      "aftenposten.no",
+      "vg.no"
+    ]
+  },
+  {
+    "country": "Oman",
+    "category": "general",
+    "sources": [
+      "timesofoman.com",
+      "muscatdaily.com",
+      "omanobserver.om"
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "category": "general",
+    "sources": [
+      "dawn.com",
+      "thenews.com.pk",
+      "tribune.com.pk"
+    ]
+  },
+  {
+    "country": "Palau",
+    "category": "general",
+    "sources": [
+      "islandtimes.org",
+      "palaugov.pw",
+      "t8aa.com"
+    ]
+  },
+  {
+    "country": "Panama",
+    "category": "general",
+    "sources": [
+      "prensa.com",
+      "presidencia.gob.pa",
+      "tvn-2.com"
+    ]
+  },
+  {
+    "country": "Papua New Guinea",
+    "category": "general",
+    "sources": [
+      "postcourier.com.pg",
+      "thenational.com.pg",
+      "nbcpng.com.pg"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "category": "general",
+    "sources": [
+      "abc.com.py",
+      "ip.gov.py",
+      "ultimahora.com"
+    ]
+  },
+  {
+    "country": "Peru",
+    "category": "general",
+    "sources": [
+      "elcomercio.pe",
+      "larepublica.pe",
+      "rpp.pe"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "category": "general",
+    "sources": [
+      "inquirer.net",
+      "philstar.com",
+      "abs-cbn.com"
+    ]
+  },
+  {
+    "country": "Poland",
+    "category": "general",
+    "sources": [
+      "gazeta.pl",
+      "onet.pl",
+      "tvn24.pl"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "category": "general",
+    "sources": [
+      "publico.pt",
+      "jn.pt",
+      "expresso.pt"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "category": "general",
+    "sources": [
+      "gulf-times.com",
+      "thepeninsulaqatar.com",
+      "qna.org.qa"
+    ]
+  },
+  {
+    "country": "Republic of Congo",
+    "category": "general",
+    "sources": [
+      "adiac-congo.com",
+      "presidence.cg",
+      "acpcongobrazzaville.com"
+    ]
+  },
+  {
+    "country": "Romania",
+    "category": "general",
+    "sources": [
+      "adevarul.ro",
+      "hotnews.ro",
+      "digi24.ro"
+    ]
+  },
+  {
+    "country": "Russia",
+    "category": "general",
+    "sources": [
+      "rt.com",
+      "tass.ru",
+      "ria.ru"
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "category": "general",
+    "sources": [
+      "newtimes.co.rw",
+      "rnanews.com",
+      "gov.rw"
+    ]
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "category": "general",
+    "sources": [
+      "thestkittsnevisobserver.com",
+      "gov.kn",
+      "winnfm.com"
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "category": "general",
+    "sources": [
+      "stlucianewsonline.com",
+      "govt.lc",
+      "thevoiceslu.com"
+    ]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "category": "general",
+    "sources": [
+      "iwnsvg.com",
+      "gov.vc",
+      "searchlight.vc"
+    ]
+  },
+  {
+    "country": "Samoa",
+    "category": "general",
+    "sources": [
+      "samoaobserver.ws",
+      "2ap.ws",
+      "gov.ws"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "category": "general",
+    "sources": [
+      "arabnews.com",
+      "spa.gov.sa",
+      "okaz.com.sa"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "category": "general",
+    "sources": [
+      "seneweb.com",
+      "aps.sn",
+      "lequotidien.sn"
+    ]
+  },
+  {
+    "country": "Serbia",
+    "category": "general",
+    "sources": [
+      "b92.net",
+      "blic.rs",
+      "rts.rs"
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "category": "general",
+    "sources": [
+      "seychellesnewsagency.com",
+      "statehouse.gov.sc",
+      "sbc.sc"
+    ]
+  },
+  {
+    "country": "Sierra Leone",
+    "category": "general",
+    "sources": [
+      "slbc.sl",
+      "statehouse.gov.sl",
+      "sierraleonepost.com"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "category": "general",
+    "sources": [
+      "straitstimes.com",
+      "channelnewsasia.com",
+      "todayonline.com"
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "category": "general",
+    "sources": [
+      "dennikn.sk",
+      "sme.sk",
+      "pravda.sk"
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "category": "general",
+    "sources": [
+      "delo.si",
+      "rtvslo.si",
+      "24ur.com"
+    ]
+  },
+  {
+    "country": "Solomon Islands",
+    "category": "general",
+    "sources": [
+      "solomonstarnews.com",
+      "sibconline.com.sb",
+      "gov.sb"
+    ]
+  },
+  {
+    "country": "Somalia",
+    "category": "general",
+    "sources": [
+      "garowe-online.com",
+      "hiiraan.com",
+      "sonna.so"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "category": "general",
+    "sources": [
+      "news24.com",
+      "mailandguardian.co.za",
+      "iol.co.za"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "category": "general",
+    "sources": [
+      "koreatimes.co.kr",
+      "koreaherald.com",
+      "yonhapnews.co.kr"
+    ]
+  },
+  {
+    "country": "South Sudan",
+    "category": "general",
+    "sources": [
+      "paanluelwel.com",
+      "goss.org",
+      "eyeradio.org"
+    ]
+  },
+  {
+    "country": "Spain",
+    "category": "general",
+    "sources": [
+      "elpais.com",
+      "elmundo.es",
+      "lavanguardia.com"
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "category": "general",
+    "sources": [
+      "dailynews.lk",
+      "newsfirst.lk",
+      "rupavahini.lk"
+    ]
+  },
+  {
+    "country": "Sudan",
+    "category": "general",
+    "sources": [
+      "sudantribune.com",
+      "suna-sd.net",
+      "altaghyeer.info"
+    ]
+  },
+  {
+    "country": "Suriname",
+    "category": "general",
+    "sources": [
+      "starnieuws.com",
+      "gov.sr",
+      "sitaleiefm.net"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "category": "general",
+    "sources": [
+      "dn.se",
+      "svd.se",
+      "svt.se"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "category": "general",
+    "sources": [
+      "nzz.ch",
+      "tagesanzeiger.ch",
+      "blick.ch"
+    ]
+  },
+  {
+    "country": "Syria",
+    "category": "general",
+    "sources": [
+      "sana.sy",
+      "syriahr.com",
+      "damascuspost.com"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "category": "general",
+    "sources": [
+      "taipeitimes.com",
+      "focustaiwan.tw",
+      "cna.com.tw"
+    ]
+  },
+  {
+    "country": "Tajikistan",
+    "category": "general",
+    "sources": [
+      "khovar.tj",
+      "president.tj",
+      "avesta.tj"
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "category": "general",
+    "sources": [
+      "thecitizen.co.tz",
+      "dailynews.co.tz",
+      "ippmedia.com"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "category": "general",
+    "sources": [
+      "bangkokpost.com",
+      "nationthailand.com",
+      "thaipbs.or.th"
+    ]
+  },
+  {
+    "country": "Timor-Leste",
+    "category": "general",
+    "sources": [
+      "tatoli.tl",
+      "rtl.gov.tl",
+      "thediliweekly.com"
+    ]
+  },
+  {
+    "country": "Togo",
+    "category": "general",
+    "sources": [
+      "republicoftogo.com",
+      "presidence.gouv.tg",
+      "atop.tg"
+    ]
+  },
+  {
+    "country": "Tonga",
+    "category": "general",
+    "sources": [
+      "matangitonga.to",
+      "tbc.to",
+      "gov.to"
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "category": "general",
+    "sources": [
+      "newsday.co.tt",
+      "news.gov.tt",
+      "guardian.co.tt"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "category": "general",
+    "sources": [
+      "lapresse.tn",
+      "tap.info.tn",
+      "kapitalis.com"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "category": "general",
+    "sources": [
+      "hurriyet.com.tr",
+      "milliyet.com.tr",
+      "cnnturk.com"
+    ]
+  },
+  {
+    "country": "Turkmenistan",
+    "category": "general",
+    "sources": [
+      "turkmenistan.gov.tm",
+      "tdh.gov.tm",
+      "orient.tm"
+    ]
+  },
+  {
+    "country": "Tuvalu",
+    "category": "general",
+    "sources": [
+      "tuvaluislands.com",
+      "gov.tv",
+      "tmbc.tv"
+    ]
+  },
+  {
+    "country": "Uganda",
+    "category": "general",
+    "sources": [
+      "monitor.co.ug",
+      "newvision.co.ug",
+      "parliament.go.ug"
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "category": "general",
+    "sources": [
+      "pravda.com.ua",
+      "unian.ua",
+      "kyivpost.com"
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "category": "general",
+    "sources": [
+      "thenationalnews.com",
+      "gulfnews.com",
+      "khaleejtimes.com"
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "category": "general",
+    "sources": [
+      "bbc.co.uk",
+      "theguardian.com",
+      "ft.com"
+    ]
+  },
+  {
+    "country": "United States",
+    "category": "general",
+    "sources": [
+      "nytimes.com",
+      "reuters.com",
+      "apnews.com"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "category": "general",
+    "sources": [
+      "elpais.com.uy",
+      "presidencia.gub.uy",
+      "180.com.uy"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "category": "general",
+    "sources": [
+      "gazeta.uz",
+      "kun.uz",
+      "daryo.uz"
+    ]
+  },
+  {
+    "country": "Vanuatu",
+    "category": "general",
+    "sources": [
+      "dailypost.vu",
+      "vbtc.vu",
+      "gov.vu"
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "category": "general",
+    "sources": [
+      "elnacional.com",
+      "runrun.es",
+      "tal-cual.com"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "category": "general",
+    "sources": [
+      "vnexpress.net",
+      "tuoitrenews.vn",
+      "vietnamnews.vn"
+    ]
+  },
+  {
+    "country": "Yemen",
+    "category": "general",
+    "sources": [
+      "sabanews.net",
+      "adenalghad.net",
+      "yementimes.com"
+    ]
+  },
+  {
+    "country": "Zambia",
+    "category": "general",
+    "sources": [
+      "times.co.zm",
+      "zanis.gov.zm",
+      "lusakatimes.com"
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "category": "general",
+    "sources": [
+      "herald.co.zw",
+      "newsday.co.zw",
+      "zimpapers.co.zw"
+    ]
+  }
+]
