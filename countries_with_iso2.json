@@ -1,0 +1,32 @@
+[
+  {
+    "country": "Afghanistan",
+    "ISO2": "AF",
+    "category": "general",
+    "sources": [
+      "khaama.com",
+      "tolonews.com",
+      "pajhwok.com"
+    ]
+  },
+  {
+    "country": "Albania",
+    "ISO2": "AL",
+    "category": "general",
+    "sources": [
+      "ata.gov.al",
+      "top-channel.tv",
+      "rtsh.al"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "ISO2": "DZ",
+    "category": "general",
+    "sources": [
+      "elwatan-dz.com",
+      "algerie360.com",
+      "tsa-algerie.com"
+    ]
+  }
+]
