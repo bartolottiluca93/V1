@@ -185,7 +185,7 @@
     "sources": [
       "fena.ba",
       "klix.ba",
-      "rtv.ba"
+      "balkaninsight.com"
     ]
   },
   {
@@ -221,7 +221,7 @@
     "sources": [
       "dnevnik.bg",
       "mediapool.bg",
-      "bnt.bg"
+      "balkaninsight.com"
     ]
   },
   {
@@ -356,7 +356,7 @@
     "sources": [
       "jutarnji.hr",
       "index.hr",
-      "hrt.hr"
+      "balkaninsight.com"
     ]
   },
   {
@@ -581,7 +581,7 @@
     "sources": [
       "kathimerini.gr",
       "ekathimerini.com",
-      "in.gr"
+      "balkaninsight.com"
     ]
   },
   {
@@ -995,7 +995,7 @@
     "sources": [
       "moldpres.md",
       "publika.md",
-      "trm.md"
+      "balkaninsight.com"
     ]
   },
   {
@@ -1013,7 +1013,7 @@
     "sources": [
       "vijesti.me",
       "mina.news",
-      "rtcg.me"
+      "balkaninsight.com"
     ]
   },
   {
@@ -1130,7 +1130,7 @@
     "sources": [
       "mia.mk",
       "mkd.mk",
-      "rtvm.gov.mk"
+      "balkaninsight.com"
     ]
   },
   {
@@ -1255,7 +1255,7 @@
     "category": "general",
     "sources": [
       "adevarul.ro",
-      "hotnews.ro",
+      "balkaninsight.com",
       "digi24.ro"
     ]
   },
@@ -1337,7 +1337,7 @@
     "sources": [
       "b92.net",
       "blic.rs",
-      "rts.rs"
+      "balkaninsight.com"
     ]
   },
   {
@@ -1579,7 +1579,7 @@
     "category": "general",
     "sources": [
       "hurriyet.com.tr",
-      "milliyet.com.tr",
+      "balkaninsight.com",
       "cnnturk.com"
     ]
   },
