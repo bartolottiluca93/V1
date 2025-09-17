@@ -6488,64 +6488,64 @@
   },
   {
     "output": [
-  {
-    "country": "North Korea",
-    "iso2": "KP",
-    "leader": "Kim Jong Un",
-    "inner_circle": [
       {
-        "name": "Kim Yo-jong",
-        "position": "Vice Director, Propaganda and Agitation Department",
-        "affiliation": "Workers' Party of Korea"
-      },
-      {
-        "name": "Choe Ryong-hae",
-        "position": "Kim´s Deputy, Chairman of the Standing Committee of the Supreme People's Assembly and Vice President of State Affairs Commission",
-        "affiliation": "Workers' Party of Korea"
-      },
-      {
-        "name": "Pak Jong-chon",
-        "position": "Vice Marshal; Central Military Commission",
-        "affiliation": "Korean People's Army"
-      },
-      {
-        "name": "Jo Yong-won",
-        "position": "Secretary, Central Committee",
-        "affiliation": "Workers' Party of Korea"
-      },
-      {
-        "name": "Kim Tok-hun",
-        "position": "Premier of the Cabinet",
-        "affiliation": "Workers' Party of Korea"
-      },
-      {
-        "name": "Ri Pyong-chol",
-        "position": "Senior Military Advisor (Strategic Forces)",
-        "affiliation": "Korean People's Army"
-      },
-      {
-        "name": "Choe Son-hui",
-        "position": "Minister of Foreign Affairs",
-        "affiliation": "Workers' Party of Korea"
-      },
-      {
-        "name": "Kang Sun-nam",
-        "position": "Minister of People's Armed Forces",
-        "affiliation": "Korean People's Army"
-      },
-      {
-        "name": "Ri Sol-ju",
-        "position": "First Lady (Spouse and family confidant)",
-        "affiliation": null
-      },
-      {
-        "name": "Kim Ju-ae",
-        "position": "Daughter; Emerging public figure",
-        "affiliation": "Kim Family"
+        "country": "North Korea",
+        "iso2": "KP",
+        "leader": "Kim Jong Un",
+        "inner_circle": [
+          {
+            "name": "Kim Yo-jong",
+            "position": "Vice Director, Propaganda and Agitation Department",
+            "affiliation": "Workers' Party of Korea"
+          },
+          {
+            "name": "Choe Ryong-hae",
+            "position": "Kim´s Deputy, Chairman of the Standing Committee of the Supreme People's Assembly and Vice President of State Affairs Commission",
+            "affiliation": "Workers' Party of Korea"
+          },
+          {
+            "name": "Pak Jong-chon",
+            "position": "Vice Marshal; Central Military Commission",
+            "affiliation": "Korean People's Army"
+          },
+          {
+            "name": "Jo Yong-won",
+            "position": "Secretary, Central Committee",
+            "affiliation": "Workers' Party of Korea"
+          },
+          {
+            "name": "Kim Tok-hun",
+            "position": "Premier of the Cabinet",
+            "affiliation": "Workers' Party of Korea"
+          },
+          {
+            "name": "Ri Pyong-chol",
+            "position": "Senior Military Advisor (Strategic Forces)",
+            "affiliation": "Korean People's Army"
+          },
+          {
+            "name": "Choe Son-hui",
+            "position": "Minister of Foreign Affairs",
+            "affiliation": "Workers' Party of Korea"
+          },
+          {
+            "name": "Kang Sun-nam",
+            "position": "Minister of People's Armed Forces",
+            "affiliation": "Korean People's Army"
+          },
+          {
+            "name": "Ri Sol-ju",
+            "position": "First Lady (Spouse and family confidant)",
+            "affiliation": null
+          },
+          {
+            "name": "Kim Ju-ae",
+            "position": "Daughter; Emerging public figure",
+            "affiliation": "Kim Family"
+          }
+        ]
       }
     ]
-  }
-]
   },
   {
     "output": [
