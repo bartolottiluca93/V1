@@ -244,9 +244,6 @@
     ]
   },
   {
-    "error": "Request timed out."
-  },
-  {
     "output": [
       {
         "country": "United States",
