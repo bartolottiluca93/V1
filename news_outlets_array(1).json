@@ -446,7 +446,7 @@
     "sources": [
       "almasryalyoum.com",
       "ahram.org.eg",
-      "youm7.com"
+      "al-monitor.com"
     ]
   },
   {
@@ -698,7 +698,7 @@
     "sources": [
       "presstv.ir",
       "tasnimnews.com",
-      "mehrnews.com"
+      "al-monitor.com"
     ]
   },
   {
@@ -725,7 +725,7 @@
     "sources": [
       "haaretz.com",
       "timesofisrael.com",
-      "jpost.com"
+      "al-monitor.com"
     ]
   },
   {
@@ -1237,7 +1237,7 @@
     "category": "general",
     "sources": [
       "gulf-times.com",
-      "thepeninsulaqatar.com",
+      "al-monitor.com",
       "qna.org.qa"
     ]
   },
@@ -1318,7 +1318,7 @@
     "category": "general",
     "sources": [
       "arabnews.com",
-      "spa.gov.sa",
+      "al-monitor.com",
       "okaz.com.sa"
     ]
   },
@@ -1490,7 +1490,7 @@
     "sources": [
       "sana.sy",
       "syriahr.com",
-      "damascuspost.com"
+      "al-monitor.com"
     ]
   },
   {
@@ -1578,7 +1578,7 @@
     "country": "Turkey",
     "category": "general",
     "sources": [
-      "hurriyet.com.tr",
+      "al-monitor.com",
       "balkaninsight.com",
       "cnnturk.com"
     ]
@@ -1625,7 +1625,7 @@
     "sources": [
       "thenationalnews.com",
       "gulfnews.com",
-      "khaleejtimes.com"
+      "al-monitor.com"
     ]
   },
   {
@@ -1695,17 +1695,17 @@
     "country": "Yemen",
     "category": "general",
     "sources": [
-      "sabanews.net",
-      "adenalghad.net",
-      "yementimes.com"
+      "al-monitor.com",
+      "arabnews.com",
+      "saba.ye/en"
     ]
   },
   {
     "country": "Zambia",
     "category": "general",
     "sources": [
-      "times.co.zm",
-      "zanis.gov.zm",
+      "zambiamonitor.com",
+      "diggers.news",
       "lusakatimes.com"
     ]
   },
@@ -1715,7 +1715,7 @@
     "sources": [
       "herald.co.zw",
       "newsday.co.zw",
-      "zimpapers.co.zw"
+      "www.newzimbabwe.com"
     ]
   }
 ]
