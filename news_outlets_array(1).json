@@ -309,9 +309,9 @@
     "country": "China",
     "category": "general",
     "sources": [
-      "scmp.com",
+      "bbc.com",
       "chinadaily.com.cn",
-      "xinhuanet.com"
+      "chinadigitaltimes.net"
     ]
   },
   {
@@ -1632,7 +1632,7 @@
     "country": "United Kingdom",
     "category": "general",
     "sources": [
-      "bbc.co.uk",
+      "bbc.com",
       "theguardian.com",
       "ft.com"
     ]
