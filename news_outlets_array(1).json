@@ -76,7 +76,7 @@
     "category": "general",
     "sources": [
       "derstandard.at",
-      "kurier.at",
+      "euronews.com",
       "orf.at"
     ]
   },
@@ -220,7 +220,7 @@
     "category": "general",
     "sources": [
       "dnevnik.bg",
-      "mediapool.bg",
+      "euronews.com",
       "balkaninsight.com"
     ]
   },
@@ -383,7 +383,7 @@
     "sources": [
       "idnes.cz",
       "denikn.cz",
-      "ct24.ceskatelevize.cz"
+      "euronews.com"
     ]
   },
   {
@@ -401,7 +401,7 @@
     "sources": [
       "dr.dk",
       "politiken.dk",
-      "jyllands-posten.dk"
+      "euronews.com"
     ]
   },
   {
@@ -481,7 +481,7 @@
     "category": "general",
     "sources": [
       "err.ee",
-      "postimees.ee",
+      "euronews.com",
       "delfi.ee"
     ]
   },
@@ -526,7 +526,7 @@
     "category": "general",
     "sources": [
       "lemonde.fr",
-      "lefigaro.fr",
+      "euronews.com",
       "france24.com"
     ]
   },
@@ -562,7 +562,7 @@
     "category": "general",
     "sources": [
       "spiegel.de",
-      "sueddeutsche.de",
+      "euronews.com",
       "faz.net"
     ]
   },
@@ -662,7 +662,7 @@
     "sources": [
       "index.hu",
       "hvg.hu",
-      "444.hu"
+      "euronews.com"
     ]
   },
   {
@@ -671,7 +671,7 @@
     "sources": [
       "mbl.is",
       "ruv.is",
-      "visir.is"
+      "euronews.com"
     ]
   },
   {
@@ -734,7 +734,7 @@
     "sources": [
       "repubblica.it",
       "corriere.it",
-      "lastampa.it"
+      "euronews.com"
     ]
   },
   {
@@ -832,7 +832,7 @@
     "category": "general",
     "sources": [
       "lsm.lv",
-      "delfi.lv",
+      "euronews.com",
       "tvnet.lv"
     ]
   },
@@ -887,7 +887,7 @@
     "sources": [
       "wort.lu",
       "rtl.lu",
-      "lequotidien.lu"
+      "euronews.com"
     ]
   },
   {
@@ -994,7 +994,7 @@
     "category": "general",
     "sources": [
       "moldpres.md",
-      "publika.md",
+      "euronews.com",
       "balkaninsight.com"
     ]
   },
@@ -1074,9 +1074,9 @@
     "country": "Netherlands",
     "category": "general",
     "sources": [
-      "nrc.nl",
+      "nos.nl",
       "volkskrant.nl",
-      "ad.nl"
+      "euronews.com"
     ]
   },
   {
@@ -1220,7 +1220,7 @@
     "sources": [
       "gazeta.pl",
       "onet.pl",
-      "tvn24.pl"
+      "euronews.com"
     ]
   },
   {
@@ -1229,7 +1229,7 @@
     "sources": [
       "publico.pt",
       "jn.pt",
-      "expresso.pt"
+      "euronews.com"
     ]
   },
   {
@@ -1373,7 +1373,7 @@
     "sources": [
       "dennikn.sk",
       "sme.sk",
-      "pravda.sk"
+      "euronews.com"
     ]
   },
   {
@@ -1381,7 +1381,7 @@
     "category": "general",
     "sources": [
       "delo.si",
-      "rtvslo.si",
+      "euronews.com",
       "24ur.com"
     ]
   },
@@ -1435,7 +1435,7 @@
     "category": "general",
     "sources": [
       "elpais.com",
-      "elmundo.es",
+      "euronews.com",
       "lavanguardia.com"
     ]
   },
@@ -1472,7 +1472,7 @@
     "sources": [
       "dn.se",
       "svd.se",
-      "svt.se"
+      "euronews.com"
     ]
   },
   {
