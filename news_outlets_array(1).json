@@ -23,7 +23,7 @@
     "sources": [
       "elwatan-dz.com",
       "algerie360.com",
-      "tsa-algerie.com"
+      "allafrica.com"
     ]
   },
   {
@@ -31,7 +31,7 @@
     "category": "general",
     "sources": [
       "jornaldeangola.ao",
-      "angop.ao",
+      "allafrica.com",
       "www.africanews.com"
     ]
   },
@@ -158,7 +158,7 @@
     "sources": [
       "presidence.bj",
       "ortb.bj",
-      "fratmat.bj"
+      "allafrica.com"
     ]
   },
   {
@@ -193,7 +193,7 @@
     "category": "general",
     "sources": [
       "mmegi.bw",
-      "gov.bw",
+      "allafrica.com",
       "thepatriot.co.bw"
     ]
   },
@@ -203,7 +203,7 @@
     "sources": [
       "globo.com",
       "folha.uol.com.br",
-      "estadao.com.br"
+      "bbc.com"
     ]
   },
   {
@@ -229,7 +229,7 @@
     "category": "general",
     "sources": [
       "aib.bf",
-      "presidence.gov.bf",
+      "allafrica.com",
       "rtb.bf"
     ]
   },
@@ -239,7 +239,7 @@
     "sources": [
       "iwacu-burundi.org",
       "rtnb.bi",
-      "presidence.gov.bi"
+      "allafrica.com"
     ]
   },
   {
@@ -257,7 +257,7 @@
     "sources": [
       "cameroon-tribune.cm",
       "prc.cm",
-      "crtv.cm"
+      "allafrica.com"
     ]
   },
   {
@@ -275,14 +275,14 @@
     "sources": [
       "inforpress.cv",
       "governo.cv",
-      "rtc.cv"
+      "allafrica.com"
     ]
   },
   {
     "country": "Central African Republic",
     "category": "general",
     "sources": [
-      "acap-cf.info",
+      "allafrica.com",
       "presidence.cf",
       "centrafrique-presse.com"
     ]
@@ -292,7 +292,7 @@
     "category": "general",
     "sources": [
       "alwihdainfo.com",
-      "presidencetchad.org",
+      "allafrica.com",
       "atchad.org"
     ]
   },
@@ -329,7 +329,7 @@
     "sources": [
       "beit-salam.km",
       "comores-actualites.com",
-      "ortc.km"
+      "allafrica.com"
     ]
   },
   {
@@ -390,7 +390,7 @@
     "country": "Democratic Republic of Congo",
     "category": "general",
     "sources": [
-      "radiookapi.net",
+      "allafrica.com",
       "presidence.cd",
       "actualite.cd"
     ]
@@ -408,7 +408,7 @@
     "country": "Djibouti",
     "category": "general",
     "sources": [
-      "presidence.dj",
+      "allafrica.com",
       "rtd.dj",
       "lanation.dj"
     ]
@@ -463,7 +463,7 @@
     "category": "general",
     "sources": [
       "guineaecuatorialpress.com",
-      "presidencia.gq",
+      "allafrica.com",
       "tvge-oficial.com"
     ]
   },
@@ -472,7 +472,7 @@
     "category": "general",
     "sources": [
       "shabait.com",
-      "president-office.gov.er",
+      "allafrica.com",
       "eri-tv.com"
     ]
   },
@@ -489,7 +489,7 @@
     "country": "Eswatini",
     "category": "general",
     "sources": [
-      "gov.sz",
+      "allafrica.com",
       "times.co.sz",
       "swazimedia.co.sz"
     ]
@@ -500,7 +500,7 @@
     "sources": [
       "addisstandard.com",
       "ena.et",
-      "fanabc.com"
+      "allafrica.com"
     ]
   },
   {
@@ -535,7 +535,7 @@
     "category": "general",
     "sources": [
       "agp.ga",
-      "presidence.ga",
+      "allafrica.com",
       "gabonreview.com"
     ]
   },
@@ -545,7 +545,7 @@
     "sources": [
       "statehouse.gm",
       "grts.gm",
-      "foroyaa.gm"
+      "allafrica.com"
     ]
   },
   {
@@ -572,7 +572,7 @@
     "sources": [
       "graphic.com.gh",
       "ghanaweb.com",
-      "joy995.com"
+      "allafrica.com"
     ]
   },
   {
@@ -616,7 +616,7 @@
     "category": "general",
     "sources": [
       "agp.gw",
-      "gov.gw",
+      "allafrica.com",
       "rtgb.gw"
     ]
   },
@@ -697,7 +697,7 @@
     "category": "general",
     "sources": [
       "presstv.ir",
-      "tasnimnews.com",
+      "aljazeera.com",
       "al-monitor.com"
     ]
   },
@@ -705,9 +705,9 @@
     "country": "Iraq",
     "category": "general",
     "sources": [
-      "rudaw.net",
+      "aljazeera.com",
       "iraqinews.com",
-      "ina.iq"
+      "bbc.com"
     ]
   },
   {
@@ -733,7 +733,7 @@
     "category": "general",
     "sources": [
       "repubblica.it",
-      "corriere.it",
+      "politico.eu",
       "euronews.com"
     ]
   },
@@ -743,7 +743,7 @@
     "sources": [
       "abidjan.net",
       "aip.ci",
-      "fratmat.info"
+      "allafrica.com"
     ]
   },
   {
@@ -850,7 +850,7 @@
     "category": "general",
     "sources": [
       "lena.gov.ls",
-      "gov.ls",
+      "allafrica.com",
       "ltv.co.ls"
     ]
   },
@@ -859,7 +859,7 @@
     "category": "general",
     "sources": [
       "liberianobserver.com",
-      "emansion.gov.lr",
+      "allafrica.com",
       "frontpageafricaonline.com"
     ]
   },
@@ -869,7 +869,7 @@
     "sources": [
       "libya-al-mostakbal.org",
       "lana-news.ly",
-      "218tv.net"
+      "allafrica.com"
     ]
   },
   {
@@ -895,7 +895,7 @@
     "category": "general",
     "sources": [
       "madagascar-tribune.com",
-      "anta.gov.mg",
+      "allafrica.com",
       "rta.mg"
     ]
   },
@@ -903,7 +903,7 @@
     "country": "Malawi",
     "category": "general",
     "sources": [
-      "manaonline.gov.mw",
+      "allafrica.com",
       "mbc.mw",
       "times.mw"
     ]
@@ -932,7 +932,7 @@
     "sources": [
       "amap.ml",
       "koulouba.ml",
-      "ortm.ml"
+      "allafrica.com"
     ]
   },
   {
@@ -958,7 +958,7 @@
     "category": "general",
     "sources": [
       "ami.mr",
-      "presidence.mr",
+      "allafrica.com",
       "elmourakib.mr"
     ]
   },
@@ -1022,7 +1022,7 @@
     "sources": [
       "le360.ma",
       "hespress.com",
-      "map.ma"
+      "allafrica.com"
     ]
   },
   {
@@ -1031,7 +1031,7 @@
     "sources": [
       "jornalnoticias.co.mz",
       "aim.org.mz",
-      "canalmoz.co.mz"
+      "allafrica.com"
     ]
   },
   {
@@ -1049,7 +1049,7 @@
     "sources": [
       "namibian.com.na",
       "nampa.org",
-      "newera.com.na"
+      "allafrica.com"
     ]
   },
   {
@@ -1102,7 +1102,7 @@
     "category": "general",
     "sources": [
       "anp.ne",
-      "presidence.ne",
+      "allafrica.com",
       "sahara-medias.net"
     ]
   },
@@ -1121,7 +1121,7 @@
     "sources": [
       "kcna.kp",
       "rodong.rep.kp",
-      "vok.rep.kp"
+      "bbc.com"
     ]
   },
   {
@@ -1246,7 +1246,7 @@
     "category": "general",
     "sources": [
       "adiac-congo.com",
-      "presidence.cg",
+      "allafrica.com",
       "acpcongobrazzaville.com"
     ]
   },
@@ -1274,7 +1274,7 @@
     "sources": [
       "newtimes.co.rw",
       "rnanews.com",
-      "gov.rw"
+      "allafrica.com"
     ]
   },
   {
@@ -1328,7 +1328,7 @@
     "sources": [
       "seneweb.com",
       "aps.sn",
-      "lequotidien.sn"
+      "allafrica.com"
     ]
   },
   {
@@ -1400,7 +1400,7 @@
     "sources": [
       "garowe-online.com",
       "hiiraan.com",
-      "sonna.so"
+      "allafrica.com"
     ]
   },
   {
@@ -1409,7 +1409,7 @@
     "sources": [
       "news24.com",
       "mailandguardian.co.za",
-      "iol.co.za"
+      "allafrica.com"
     ]
   },
   {
@@ -1427,7 +1427,7 @@
     "sources": [
       "paanluelwel.com",
       "goss.org",
-      "eyeradio.org"
+      "allafrica.com"
     ]
   },
   {
@@ -1454,7 +1454,7 @@
     "sources": [
       "sudantribune.com",
       "suna-sd.net",
-      "altaghyeer.info"
+      "allafrica.com"
     ]
   },
   {
@@ -1543,7 +1543,7 @@
     "category": "general",
     "sources": [
       "republicoftogo.com",
-      "presidence.gouv.tg",
+      "allafrica.com",
       "atop.tg"
     ]
   },
@@ -1571,7 +1571,7 @@
     "sources": [
       "lapresse.tn",
       "tap.info.tn",
-      "kapitalis.com"
+      "allafrica.com"
     ]
   },
   {
@@ -1607,7 +1607,7 @@
     "sources": [
       "monitor.co.ug",
       "newvision.co.ug",
-      "parliament.go.ug"
+      "allafrica.com"
     ]
   },
   {
@@ -1705,7 +1705,7 @@
     "category": "general",
     "sources": [
       "zambiamonitor.com",
-      "diggers.news",
+      "allafrica.com",
       "lusakatimes.com"
     ]
   },
