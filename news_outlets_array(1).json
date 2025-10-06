@@ -21,8 +21,8 @@
     "country": "Algeria",
     "category": "general",
     "sources": [
-      "elwatan-dz.com",
-      "algerie360.com",
+      "aljazeera.com",
+      "middleeasteye.net",
       "allafrica.com"
     ]
   },
@@ -75,9 +75,9 @@
     "country": "Austria",
     "category": "general",
     "sources": [
-      "derstandard.at",
+      "dw.com",
       "euronews.com",
-      "orf.at"
+      "thelocal.at"
     ]
   },
   {
@@ -202,7 +202,7 @@
     "category": "general",
     "sources": [
       "globo.com",
-      "folha.uol.com.br",
+      "reuters.com",
       "bbc.com"
     ]
   },
@@ -219,7 +219,7 @@
     "country": "Bulgaria",
     "category": "general",
     "sources": [
-      "dnevnik.bg",
+      "politico.eu",
       "euronews.com",
       "balkaninsight.com"
     ]
@@ -382,7 +382,7 @@
     "category": "general",
     "sources": [
       "idnes.cz",
-      "denikn.cz",
+      "politico.eu",
       "euronews.com"
     ]
   },
@@ -444,8 +444,8 @@
     "country": "Egypt",
     "category": "general",
     "sources": [
-      "almasryalyoum.com",
-      "ahram.org.eg",
+      "aljazeera.com",
+      "bbc.com",
       "al-monitor.com"
     ]
   },
@@ -454,7 +454,7 @@
     "category": "general",
     "sources": [
       "elsalvador.com",
-      "presidencia.gob.sv",
+      "reuters.com",
       "laprensagrafica.com"
     ]
   },
@@ -517,15 +517,15 @@
     "category": "general",
     "sources": [
       "yle.fi",
-      "hs.fi",
-      "iltalehti.fi"
+      "euronews.com",
+      "politico.eu"
     ]
   },
   {
     "country": "France",
     "category": "general",
     "sources": [
-      "lemonde.fr",
+      "reuters.com",
       "euronews.com",
       "france24.com"
     ]
@@ -867,8 +867,8 @@
     "country": "Libya",
     "category": "general",
     "sources": [
-      "libya-al-mostakbal.org",
-      "lana-news.ly",
+      "libyaobserver.ly",
+      "aljazeera.com",
       "allafrica.com"
     ]
   },
@@ -1218,8 +1218,8 @@
     "country": "Poland",
     "category": "general",
     "sources": [
-      "gazeta.pl",
-      "onet.pl",
+      "tvpworld.com",
+      "politico.eu",
       "euronews.com"
     ]
   },
@@ -1467,11 +1467,11 @@
     ]
   },
   {
-    "country": "Sweden",
+   "country": "Sweden",
     "category": "general",
     "sources": [
-      "dn.se",
-      "svd.se",
+      "politico.eu",
+      "swedenherald.com",
       "euronews.com"
     ]
   },
