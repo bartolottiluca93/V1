@@ -1,1 +1,118 @@
-
+[
+  {
+    "country": "Algeria",
+    "category": "general",
+    "sources": [
+      "elwatan-dz.com",
+      "algerie360.com",
+      "allafrica.com"
+    ]
+  },
+    {
+    "country": "Austria",
+    "category": "general",
+    "sources": [
+      "derstandard.at",
+      "euronews.com",
+      "orf.at"
+    ]
+  },
+    {
+    "country": "Brazil",
+    "category": "general",
+    "sources": [
+      "globo.com",
+      "folha.uol.com.br",
+      "bbc.com"
+    ]
+  },
+   {
+    "country": "Bulgaria",
+    "category": "general",
+    "sources": [
+      "dnevnik.bg",
+      "euronews.com",
+      "balkaninsight.com"
+    ]
+  },
+    {
+    "country": "Central African Republic",
+    "category": "general",
+    "sources": [
+      "allafrica.com",
+      "presidence.cf",
+      "centrafrique-presse.com"
+    ]
+  },
+    {
+    "country": "Czech Republic",
+    "category": "general",
+    "sources": [
+      "idnes.cz",
+      "denikn.cz",
+      "euronews.com"
+    ]
+  },
+    {
+    "country": "Egypt",
+    "category": "general",
+    "sources": [
+      "almasryalyoum.com",
+      "ahram.org.eg",
+      "al-monitor.com"
+    ]
+  },
+  {
+    "country": "El Salvador",
+    "category": "general",
+    "sources": [
+      "elsalvador.com",
+      "presidencia.gob.sv",
+      "laprensagrafica.com"
+    ]
+  }, {
+    "country": "Finland",
+    "category": "general",
+    "sources": [
+      "yle.fi",
+      "hs.fi",
+      "iltalehti.fi"
+    ]
+  },
+    {
+    "country": "Kenya",
+    "category": "general",
+    "sources": [
+      "nation.africa",
+      "standardmedia.co.ke",
+      "citizentv.co.ke"
+    ]
+  },
+    {
+    "country": "Libya",
+    "category": "general",
+    "sources": [
+      "libya-al-mostakbal.org",
+      "lana-news.ly",
+      "allafrica.com"
+    ]
+  },
+    {
+    "country": "Poland",
+    "category": "general",
+    "sources": [
+      "gazeta.pl",
+      "onet.pl",
+      "euronews.com"
+    ]
+  },
+    {
+    "country": "Sweden",
+    "category": "general",
+    "sources": [
+      "dn.se",
+      "svd.se",
+      "euronews.com"
+    ]
+  }
+]
