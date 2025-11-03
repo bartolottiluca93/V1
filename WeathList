@@ -1,0 +1,487 @@
+[
+  {
+    "name": "Elon Musk",
+    "country": "United States",
+    "estimated_net_worth_usd": 290000000000
+  },
+  {
+    "name": "Bernard Arnault & family",
+    "country": "France",
+    "estimated_net_worth_usd": 210000000000
+  },
+  {
+    "name": "Jeff Bezos",
+    "country": "United States",
+    "estimated_net_worth_usd": 210000000000
+  },
+  {
+    "name": "Jensen Huang",
+    "country": "United States",
+    "estimated_net_worth_usd": 185000000000
+  },
+  {
+    "name": "Larry Ellison",
+    "country": "United States",
+    "estimated_net_worth_usd": 170000000000
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "country": "United States",
+    "estimated_net_worth_usd": 165000000000
+  },
+  {
+    "name": "Warren Buffett",
+    "country": "United States",
+    "estimated_net_worth_usd": 150000000000
+  },
+  {
+    "name": "Bill Gates",
+    "country": "United States",
+    "estimated_net_worth_usd": 130000000000
+  },
+  {
+    "name": "Larry Page",
+    "country": "United States",
+    "estimated_net_worth_usd": 125000000000
+  },
+  {
+    "name": "Sergey Brin",
+    "country": "United States",
+    "estimated_net_worth_usd": 120000000000
+  },
+  {
+    "name": "Steve Ballmer",
+    "country": "United States",
+    "estimated_net_worth_usd": 120000000000
+  },
+  {
+    "name": "Mukesh Ambani",
+    "country": "India",
+    "estimated_net_worth_usd": 115000000000
+  },
+  {
+    "name": "Carlos Slim Helu & family",
+    "country": "Mexico",
+    "estimated_net_worth_usd": 105000000000
+  },
+  {
+    "name": "Michael Bloomberg",
+    "country": "United States",
+    "estimated_net_worth_usd": 98000000000
+  },
+  {
+    "name": "Amancio Ortega",
+    "country": "Spain",
+    "estimated_net_worth_usd": 97000000000
+  },
+  {
+    "name": "Francoise Bettencourt Meyers & family",
+    "country": "France",
+    "estimated_net_worth_usd": 90000000000
+  },
+  {
+    "name": "Gautam Adani",
+    "country": "India",
+    "estimated_net_worth_usd": 95000000000
+  },
+  {
+    "name": "Jim Walton",
+    "country": "United States",
+    "estimated_net_worth_usd": 75000000000
+  },
+  {
+    "name": "Alice Walton",
+    "country": "United States",
+    "estimated_net_worth_usd": 70000000000
+  },
+  {
+    "name": "Rob Walton",
+    "country": "United States",
+    "estimated_net_worth_usd": 70000000000
+  },
+  {
+    "name": "Michael Dell",
+    "country": "United States",
+    "estimated_net_worth_usd": 70000000000
+  },
+  {
+    "name": "Ken Griffin",
+    "country": "United States",
+    "estimated_net_worth_usd": 65000000000
+  },
+  {
+    "name": "Charles Koch",
+    "country": "United States",
+    "estimated_net_worth_usd": 65000000000
+  },
+  {
+    "name": "Julia Koch & family",
+    "country": "United States",
+    "estimated_net_worth_usd": 65000000000
+  },
+  {
+    "name": "Zhong Shanshan",
+    "country": "China",
+    "estimated_net_worth_usd": 65000000000
+  },
+  {
+    "name": "Phil Knight & family",
+    "country": "United States",
+    "estimated_net_worth_usd": 60000000000
+  },
+  {
+    "name": "Dieter Schwarz",
+    "country": "Germany",
+    "estimated_net_worth_usd": 42000000000
+  },
+  {
+    "name": "Francois Pinault & family",
+    "country": "France",
+    "estimated_net_worth_usd": 42000000000
+  },
+  {
+    "name": "Giovanni Ferrero",
+    "country": "Italy",
+    "estimated_net_worth_usd": 40000000000
+  },
+  {
+    "name": "John Mars",
+    "country": "United States",
+    "estimated_net_worth_usd": 38000000000
+  },
+  {
+    "name": "Jacqueline Mars",
+    "country": "United States",
+    "estimated_net_worth_usd": 38000000000
+  },
+  {
+    "name": "Stephen Schwarzman",
+    "country": "United States",
+    "estimated_net_worth_usd": 38000000000
+  },
+  {
+    "name": "Len Blavatnik",
+    "country": "United Kingdom",
+    "estimated_net_worth_usd": 36000000000
+  },
+  {
+    "name": "Li Ka-shing",
+    "country": "Hong Kong",
+    "estimated_net_worth_usd": 36000000000
+  },
+  {
+    "name": "Thomas Peterffy",
+    "country": "United States",
+    "estimated_net_worth_usd": 35000000000
+  },
+  {
+    "name": "Alain Wertheimer",
+    "country": "France",
+    "estimated_net_worth_usd": 35000000000
+  },
+  {
+    "name": "Gerard Wertheimer",
+    "country": "France",
+    "estimated_net_worth_usd": 35000000000
+  },
+  {
+    "name": "Gianluigi Aponte & family",
+    "country": "Switzerland",
+    "estimated_net_worth_usd": 35000000000
+  },
+  {
+    "name": "Rafaela Aponte-Diamant",
+    "country": "Switzerland",
+    "estimated_net_worth_usd": 35000000000
+  },
+  {
+    "name": "Sheikh Mansour bin Zayed",
+    "country": "United Arab Emirates",
+    "estimated_net_worth_usd": 35000000000
+  },
+  {
+    "name": "Rodolphe Saadé & family",
+    "country": "France",
+    "estimated_net_worth_usd": 33000000000
+  },
+  {
+    "name": "Shiv Nadar",
+    "country": "India",
+    "estimated_net_worth_usd": 33000000000
+  },
+  {
+    "name": "MacKenzie Scott",
+    "country": "United States",
+    "estimated_net_worth_usd": 32000000000
+  },
+  {
+    "name": "Miriam Adelson & family",
+    "country": "United States",
+    "estimated_net_worth_usd": 32000000000
+  },
+  {
+    "name": "Low Tuck Kwong",
+    "country": "Indonesia",
+    "estimated_net_worth_usd": 30000000000
+  },
+  {
+    "name": "Gina Rinehart",
+    "country": "Australia",
+    "estimated_net_worth_usd": 30000000000
+  },
+  {
+    "name": "Reimann family (JAB)",
+    "country": "Germany",
+    "estimated_net_worth_usd": 30000000000
+  },
+  {
+    "name": "Del Vecchio heirs (Delfin)",
+    "country": "Italy",
+    "estimated_net_worth_usd": 30000000000
+  },
+  {
+    "name": "Abigail Johnson",
+    "country": "United States",
+    "estimated_net_worth_usd": 30000000000
+  },
+  {
+    "name": "Iris Fontbona & family",
+    "country": "Chile",
+    "estimated_net_worth_usd": 30000000000
+  },
+  {
+    "name": "Jeff Yass",
+    "country": "United States",
+    "estimated_net_worth_usd": 28000000000
+  },
+  {
+    "name": "Susanne Klatten",
+    "country": "Germany",
+    "estimated_net_worth_usd": 28000000000
+  },
+  {
+    "name": "He Xiangjian",
+    "country": "China",
+    "estimated_net_worth_usd": 28000000000
+  },
+  {
+    "name": "Vladimir Lisin",
+    "country": "Russia",
+    "estimated_net_worth_usd": 23000000000
+  },
+  {
+    "name": "Vladimir Potanin",
+    "country": "Russia",
+    "estimated_net_worth_usd": 25000000000
+  },
+  {
+    "name": "Leonid Mikhelson",
+    "country": "Russia",
+    "estimated_net_worth_usd": 24000000000
+  },
+  {
+    "name": "Alexey Mordashov",
+    "country": "Russia",
+    "estimated_net_worth_usd": 22000000000
+  },
+  {
+    "name": "Gennady Timchenko",
+    "country": "Russia",
+    "estimated_net_worth_usd": 20000000000
+  },
+  {
+    "name": "Vladimir Putin (contested)",
+    "country": "Russia",
+    "estimated_net_worth_usd": 100000000000
+  },
+  {
+    "name": "Savitri Jindal & family",
+    "country": "India",
+    "estimated_net_worth_usd": 25000000000
+  },
+  {
+    "name": "Klaus-Michael Kühne",
+    "country": "Germany",
+    "estimated_net_worth_usd": 25000000000
+  },
+  {
+    "name": "Leonard Lauder",
+    "country": "United States",
+    "estimated_net_worth_usd": 25000000000
+  },
+  {
+    "name": "Rupert Murdoch & family",
+    "country": "United States",
+    "estimated_net_worth_usd": 19000000000
+  },
+  {
+    "name": "Donald Bren",
+    "country": "United States",
+    "estimated_net_worth_usd": 18000000000
+  },
+  {
+    "name": "Prince Alwaleed bin Talal",
+    "country": "Saudi Arabia",
+    "estimated_net_worth_usd": 18000000000
+  },
+  {
+    "name": "Eyal Ofer",
+    "country": "Israel",
+    "estimated_net_worth_usd": 18000000000
+  },
+  {
+    "name": "Andrew Forrest",
+    "country": "Australia",
+    "estimated_net_worth_usd": 17000000000
+  },
+  {
+    "name": "Aliko Dangote",
+    "country": "Nigeria",
+    "estimated_net_worth_usd": 15000000000
+  },
+  {
+    "name": "Goh Cheng Liang",
+    "country": "Singapore",
+    "estimated_net_worth_usd": 14000000000
+  },
+  {
+    "name": "Laurene Powell Jobs & family",
+    "country": "United States",
+    "estimated_net_worth_usd": 14000000000
+  },
+  {
+    "name": "Roman Abramovich",
+    "country": "Israel",
+    "estimated_net_worth_usd": 14000000000
+  },
+  {
+    "name": "Anthony Pratt",
+    "country": "Australia",
+    "estimated_net_worth_usd": 13000000000
+  },
+  {
+    "name": "Johann Rupert & family",
+    "country": "South Africa",
+    "estimated_net_worth_usd": 13000000000
+  },
+  {
+    "name": "John Fredriksen",
+    "country": "Cyprus",
+    "estimated_net_worth_usd": 13000000000
+  },
+  {
+    "name": "Marcel Herrmann Telles",
+    "country": "Brazil",
+    "estimated_net_worth_usd": 13000000000
+  },
+  {
+    "name": "Idan Ofer",
+    "country": "Israel",
+    "estimated_net_worth_usd": 10000000000
+  },
+  {
+    "name": "Jorge Paulo Lemann & family",
+    "country": "Brazil",
+    "estimated_net_worth_usd": 20000000000
+  },
+  {
+    "name": "Ernesto Bertarelli & family",
+    "country": "Switzerland",
+    "estimated_net_worth_usd": 20000000000
+  },
+  {
+    "name": "Donald Trump",
+    "country": "United States",
+    "estimated_net_worth_usd": 3000000000
+  },
+  {
+    "name": "Hassanal Bolkiah (Sultan of Brunei)",
+    "country": "Brunei",
+    "estimated_net_worth_usd": 20000000000
+  },
+  {
+    "name": "Mohammed bin Salman (MBS)",
+    "country": "Saudi Arabia",
+    "estimated_net_worth_usd": 5000000000
+  },
+  {
+    "name": "Saudi Royal Family (aggregate)",
+    "country": "Saudi Arabia",
+    "estimated_net_worth_usd": 1400000000000
+  },
+  {
+    "name": "Mohammed bin Zayed & Al Nahyan family",
+    "country": "United Arab Emirates",
+    "estimated_net_worth_usd": 300000000000
+  },
+  {
+    "name": "Al Maktoum family",
+    "country": "United Arab Emirates",
+    "estimated_net_worth_usd": 50000000000
+  },
+  {
+    "name": "Al Thani family",
+    "country": "Qatar",
+    "estimated_net_worth_usd": 335000000000
+  },
+  {
+    "name": "Azim Premji",
+    "country": "India",
+    "estimated_net_worth_usd": 22000000000
+  },
+  {
+    "name": "Wang Wei",
+    "country": "China",
+    "estimated_net_worth_usd": 23000000000
+  },
+  {
+    "name": "Qin Yinglin & family",
+    "country": "China",
+    "estimated_net_worth_usd": 18000000000
+  },
+  {
+    "name": "Nassef Sawiris",
+    "country": "Egypt",
+    "estimated_net_worth_usd": 11000000000
+  },
+  {
+    "name": "Nicky Oppenheimer & family",
+    "country": "South Africa",
+    "estimated_net_worth_usd": 10000000000
+  },
+  {
+    "name": "Rinat Akhmetov",
+    "country": "Ukraine",
+    "estimated_net_worth_usd": 10000000000
+  },
+  {
+    "name": "Wang Xing",
+    "country": "China",
+    "estimated_net_worth_usd": 18000000000
+  },
+  {
+    "name": "Ray Dalio",
+    "country": "United States",
+    "estimated_net_worth_usd": 19000000000
+  },
+  {
+    "name": "Patrick Drahi",
+    "country": "France/Israel",
+    "estimated_net_worth_usd": 9000000000
+  },
+  {
+    "name": "Tadashi Yanai & family",
+    "country": "Japan",
+    "estimated_net_worth_usd": 45000000000
+  },
+  {
+    "name": "Reinhold Würth & family",
+    "country": "Germany",
+    "estimated_net_worth_usd": 20000000000
+  },
+  {
+    "name": "Gautam Adani family",
+    "country": "India",
+    "estimated_net_worth_usd": 100000000000
+  }
+]
